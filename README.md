@@ -16,15 +16,17 @@ build.js               le générateur
 AUTOMATISATION.md      les consignes des deux tâches quotidiennes
 ```
 
-## Mise en ligne sur Cloudflare Pages (gratuit)
+## Mise en ligne sur Cloudflare (gratuit)
 
-1. Crée un dépôt GitHub (privé ou public) et pousse ce dossier dedans.
-2. Sur Cloudflare : Workers & Pages › Créer › Pages › Connecter à Git, puis choisis le dépôt.
-3. Réglages de build :
-   - Commande de build : `node build.js`
-   - Dossier de sortie : `dist`
-4. Chaque `git push` sur `main` reconstruit et publie le site en une minute environ.
-5. Nom de domaine : dans le projet Pages, onglet « Domaines personnalisés ».
+Le site est déployé comme Worker à fichiers statiques (voir `wrangler.jsonc`).
+
+1. Workers & Pages › le projet `boomerz` › Settings › Build › Build configuration :
+   - Build command : `node build.js`
+   - Deploy command : `npx wrangler deploy`
+2. Chaque `git push` sur `main` reconstruit et publie le site en une minute environ.
+3. Nom de domaine : Settings › Domains & Routes › Add › Custom domain.
+
+Le nom `name` de `wrangler.jsonc` doit être identique au nom du projet dans Cloudflare.
 
 Le mot affiché est la dernière fiche dont `statut` vaut `publie` et dont la date est passée ou égale à aujourd'hui (heure de Paris). Une fiche datée de demain ou en `brouillon` n'apparaît pas.
 

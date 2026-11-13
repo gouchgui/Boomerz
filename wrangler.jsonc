@@ -1,0 +1,9 @@
+// Configuration Cloudflare : le site statique généré par `node build.js` dans dist/
+{
+  "name": "boomerz",
+  "compatibility_date": "2026-11-01",
+  "assets": {
+    "directory": "./dist",
+    "html_handling": "auto-trailing-slash"
+  }
+}
