@@ -1,0 +1,16 @@
+{
+  "nom": "Boomerz",
+  "url_site": "https://boomerz.fr",
+  "description": "Boomerz, le dico de la Gen Z pour les boomers : chaque jour, un mot d'argot jeune expliqué aux boomers, à la Gen X et aux millennials, avec son équivalent des années 80, 90 et 2000.",
+  "fuseau": "Europe/Paris",
+  "email_contact": "",
+  "editeur": {
+    "nom": "[TON NOM OU PSEUDONYME]",
+    "contact": "[ADRESSE EMAIL DE CONTACT]"
+  },
+  "pub": {
+    "afficher_emplacements_vides": true,
+    "bandeau_1_html": "",
+    "bandeau_2_html": ""
+  }
+}

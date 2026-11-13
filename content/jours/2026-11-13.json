@@ -1,0 +1,45 @@
+{
+  "date": "2026-11-13",
+  "statut": "publie",
+  "slug": "rizz",
+  "mot": "Rizz",
+  "prononciation": "riz (comme le riz)",
+  "nature": "nom (« avoir du rizz »), parfois verbe (« rizzer »)",
+  "definition": "Le charisme pour séduire. Avoir du rizz, c'est savoir parler aux gens qui nous plaisent, avec aisance et un brin d'humour.",
+  "definition_courte": "Le talent pour séduire",
+  "origine": "Abréviation de l'anglais « charisma » (on garde le milieu du mot). Popularisé par des streamers américains au début des années 2020, il a été élu mot de l'année 2023 par le dictionnaire d'Oxford.",
+  "exemple": "Il lui a parlé deux minutes et il a eu son numéro. Quel rizz.",
+  "traduction_boomer": "Avoir du bagout.",
+  "gene_parent": 4,
+  "etat": "en-declin",
+  "rarete": "rare",
+  "apparu": "2022",
+  "meme": {
+    "description": "Des streamers notent en direct le « rizz » de leurs invités, et le mot envahit les commentaires.",
+    "plateforme": "Twitch et TikTok",
+    "annee": "2022",
+    "embed_url": null
+  },
+  "generations": [
+    { "epoque": "XVIIe siècle", "dit": "Un Don Juan", "incarne": "Le héros de Molière (1665)" },
+    { "epoque": "1960", "dit": "Un tombeur", "incarne": "Alain Delon" },
+    { "epoque": "1980", "dit": "Un dragueur", "incarne": "Jean-Claude Dusse, Les Bronzés" },
+    { "epoque": "1990", "dit": "Avoir la tchatche", "incarne": "Le roi de la boum" },
+    { "epoque": "2000", "dit": "Savoir pécho", "incarne": "Les Beaux Gosses (2009)" },
+    { "epoque": "2020", "dit": "Avoir du rizz", "incarne": "Les « rizz gods » de TikTok" }
+  ],
+  "genealogie": ["Don Juan", "Tombeur", "Tchatche", "Pécho", "Rizz"],
+  "trendle": {
+    "reponse": "SUS",
+    "libelle": "Sus",
+    "indices": [
+      "Il a été popularisé par un jeu vidéo où il faut démasquer un imposteur.",
+      "C'est l'abréviation d'un mot qui existe en anglais comme en français.",
+      "On le dit de quelqu'un dont le comportement est louche.",
+      "Il fait 3 lettres.",
+      "Un boomer dirait : « pas net »."
+    ],
+    "explication": "« Sus », c'est « suspect » coupé court. Le mot a explosé en 2020 avec le jeu Among Us, où l'on vote pour éjecter le joueur le plus louche."
+  },
+  "sources": []
+}

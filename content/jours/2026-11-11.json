@@ -1,0 +1,45 @@
+{
+  "date": "2026-11-11",
+  "statut": "publie",
+  "slug": "dinguerie",
+  "mot": "Dinguerie",
+  "prononciation": "din-gue-rie",
+  "nature": "nom (« c'est une dinguerie »)",
+  "definition": "Quelque chose d'incroyable, de fou, qui impressionne. Presque toujours en bien.",
+  "definition_courte": "Un truc fou, incroyable",
+  "origine": "Formé sur « dingue ». Longtemps cantonnée à l'argot des jeunes et du rap, l'expression est devenue si courante qu'elle est entrée dans le Petit Larousse 2027.",
+  "exemple": "T'as vu le but à la dernière seconde ? C'est une dinguerie.",
+  "traduction_boomer": "C'est d'la balle !",
+  "gene_parent": 2,
+  "etat": "en-forme",
+  "rarete": "commune",
+  "apparu": "≈2020",
+  "meme": {
+    "description": "Des réactions face caméra qui finissent toutes par « c'est une dinguerie ».",
+    "plateforme": "TikTok et YouTube",
+    "annee": "2020",
+    "embed_url": null
+  },
+  "generations": [
+    { "epoque": "XVIIIe siècle", "dit": "C'est prodigieux", "incarne": "Les automates de Vaucanson" },
+    { "epoque": "1960", "dit": "C'est le pied", "incarne": "Salut les copains et les yé-yé" },
+    { "epoque": "1980", "dit": "C'est géant", "incarne": "Le Top 50 du samedi" },
+    { "epoque": "1990", "dit": "C'est d'la balle", "incarne": "La première Game Boy" },
+    { "epoque": "2000", "dit": "C'est ouf", "incarne": "Le premier écran tactile" },
+    { "epoque": "2020", "dit": "Une dinguerie", "incarne": "Entrée au Petit Larousse 2027" }
+  ],
+  "genealogie": ["Prodigieux", "Le pied", "Géant", "Ouf", "Dinguerie"],
+  "trendle": {
+    "reponse": "CRINGE",
+    "libelle": "Cringe",
+    "indices": [
+      "Vient de l'anglais : se crisper de gêne.",
+      "Le papa qui danse au mariage, c'est exactement ça.",
+      "Ça se dit d'une vidéo, d'une blague ou d'une personne.",
+      "Il fait 6 lettres.",
+      "Un boomer dirait : « c'est la honte »."
+    ],
+    "explication": "Cringe, c'est la gêne qu'on ressent pour quelqu'un d'autre. Et oui : un parent qui dit « cringe », c'est cringe."
+  },
+  "sources": []
+}

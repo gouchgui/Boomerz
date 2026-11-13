@@ -1,0 +1,45 @@
+{
+  "date": "2026-11-12",
+  "statut": "publie",
+  "slug": "ghoster",
+  "mot": "Ghoster",
+  "prononciation": "gô-sté",
+  "nature": "verbe (« il m'a ghosté »)",
+  "definition": "Disparaître du jour au lendemain sans explication : ne plus répondre aux messages, aux appels, à rien. Comme un fantôme.",
+  "definition_courte": "Disparaître sans prévenir, ne plus répondre",
+  "origine": "De l'anglais « ghost », fantôme. Le mot s'est répandu au milieu des années 2010 avec les applis de rencontre, où l'on peut couper le contact en un geste.",
+  "exemple": "Trois rendez-vous, et depuis, plus rien. Il m'a ghostée.",
+  "traduction_boomer": "Poser un lapin, mais pour toujours.",
+  "gene_parent": 2,
+  "etat": "en-forme",
+  "rarete": "commune",
+  "apparu": "≈2015",
+  "meme": {
+    "description": "Les captures d'écran de messages marqués « Vu », restés sans réponse depuis des semaines.",
+    "plateforme": "Twitter et Instagram",
+    "annee": "2015",
+    "embed_url": null
+  },
+  "generations": [
+    { "epoque": "XIXe siècle", "dit": "Filer à l'anglaise", "incarne": "Les Anglais, eux, disent « French leave »" },
+    { "epoque": "1960", "dit": "Poser un lapin", "incarne": "Le rendez-vous manqué sous l'horloge de la gare" },
+    { "epoque": "1980", "dit": "Faire le mort", "incarne": "Le répondeur qui ne rappelle jamais" },
+    { "epoque": "1990", "dit": "Ne plus rappeler sur le fixe", "incarne": "Le Tatoo qui reste muet" },
+    { "epoque": "2000", "dit": "Bloquer sur MSN", "incarne": "Le statut « Apparaître hors ligne »" },
+    { "epoque": "2020", "dit": "Ghoster", "incarne": "Le « Vu » sans réponse" }
+  ],
+  "genealogie": ["À l'anglaise", "Lapin", "Hors ligne", "Ghost"],
+  "trendle": {
+    "reponse": "FLEX",
+    "libelle": "Flex",
+    "indices": [
+      "Vient de l'anglais : contracter ses muscles pour les montrer.",
+      "On le fait avec une montre, une voiture ou des baskets.",
+      "Le rap américain l'a rendu célèbre.",
+      "Il fait 4 lettres.",
+      "Un boomer dirait : « frimer »."
+    ],
+    "explication": "Flexer, c'est étaler ce qu'on a pour impressionner : argent, objets, réussite. La version 2020 du bling-bling."
+  },
+  "sources": []
+}

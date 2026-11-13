@@ -1,0 +1,45 @@
+{
+  "date": "2026-11-10",
+  "statut": "publie",
+  "slug": "npc",
+  "mot": "NPC",
+  "prononciation": "èn-pi-si",
+  "nature": "nom (« c'est un NPC »)",
+  "definition": "Quelqu'un qui semble n'avoir aucune pensée propre : il répète, suit le mouvement et réagit comme un robot.",
+  "definition_courte": "Quelqu'un sans personnalité, qui agit comme un robot",
+  "origine": "De l'anglais « non-player character », le personnage non-joueur des jeux vidéo, qui répète toujours les mêmes phrases. Mème apparu vers 2018, relancé en 2023 par des lives TikTok où des créateurs imitent ces personnages.",
+  "exemple": "Il a donné exactement la même réponse que les trois autres. Un vrai NPC.",
+  "traduction_boomer": "Un mouton.",
+  "gene_parent": 3,
+  "etat": "en-declin",
+  "rarete": "epique",
+  "apparu": "≈2018",
+  "meme": {
+    "description": "Des créateurs en live imitent des personnages de jeu vidéo et répètent les mêmes phrases à chaque cadeau reçu.",
+    "plateforme": "TikTok",
+    "annee": "2023",
+    "embed_url": null
+  },
+  "generations": [
+    { "epoque": "XVIe siècle", "dit": "Un mouton de Panurge", "incarne": "Rabelais, Le Quart Livre (1552)" },
+    { "epoque": "1970", "dit": "Un beauf", "incarne": "Le Beauf de Cabu" },
+    { "epoque": "1980", "dit": "Un blaireau", "incarne": "Le touriste en chaussettes-sandales" },
+    { "epoque": "1990", "dit": "Un bouffon", "incarne": "Le figurant de sitcom" },
+    { "epoque": "2000", "dit": "Un boloss", "incarne": "La cour du collège" },
+    { "epoque": "2020", "dit": "Un NPC", "incarne": "Les lives TikTok de personnages (2023)" }
+  ],
+  "genealogie": ["Panurge", "Beauf", "Bouffon", "Boloss", "NPC"],
+  "trendle": {
+    "reponse": "BADER",
+    "libelle": "Bader",
+    "indices": [
+      "Vient d'un mot anglais qui veut dire « mauvais ».",
+      "Un lundi matin pluvieux peut te le faire faire.",
+      "C'est un verbe.",
+      "Il fait 5 lettres.",
+      "Un boomer dirait : « avoir le cafard »."
+    ],
+    "explication": "Bader, c'est avoir le moral à zéro. Baudelaire, lui, appelait ça le spleen."
+  },
+  "sources": []
+}

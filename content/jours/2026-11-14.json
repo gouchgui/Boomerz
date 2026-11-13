@@ -1,0 +1,45 @@
+{
+  "date": "2026-11-14",
+  "statut": "publie",
+  "slug": "aura-farming",
+  "mot": "Aura farming",
+  "prononciation": "o-ra far-mingue",
+  "nature": "nom / verbe (« il aura farm »)",
+  "definition": "Cultiver son « aura » : avoir l'air cool, mystérieux ou impressionnant, en faisant bien semblant de ne pas essayer.",
+  "definition_courte": "Avoir l'air cool sans avoir l'air d'essayer",
+  "origine": "« Farmer », dans les jeux vidéo, c'est accumuler des points en répétant une action. Ici, on accumule des points de prestige. L'expression a explosé à l'été 2025 avec la vidéo d'un jeune garçon indonésien qui danse, impassible, à l'avant d'une pirogue de course.",
+  "exemple": "Il a gardé ses lunettes de soleil dans le métro. Il aura farm, c'est clair.",
+  "traduction_boomer": "Frimer, mais l'air de rien.",
+  "gene_parent": 4,
+  "etat": "en-forme",
+  "rarete": "epique",
+  "apparu": "2025",
+  "meme": {
+    "description": "Un garçon danse, impassible, à l'avant d'une pirogue de course en Indonésie.",
+    "plateforme": "TikTok",
+    "annee": "2025",
+    "embed_url": null
+  },
+  "generations": [
+    { "epoque": "XIXe siècle", "dit": "Un dandy", "incarne": "Brummell, et Baudelaire qui en fait un art" },
+    { "epoque": "1960", "dit": "Jouer les James Dean", "incarne": "James Dean, La Fureur de vivre" },
+    { "epoque": "1980", "dit": "Faire son Top Gun", "incarne": "Maverick, Ray-Ban et blouson" },
+    { "epoque": "1990", "dit": "Se la péter", "incarne": "Le caïd de la cour de récré" },
+    { "epoque": "2000", "dit": "Se la raconter", "incarne": "Brice de Nice (2005)" },
+    { "epoque": "2020", "dit": "Aura farmer", "incarne": "Le garçon de la pirogue (2025)" }
+  ],
+  "genealogie": ["Dandy", "James Dean", "Top Gun", "Swag", "Aura"],
+  "trendle": {
+    "reponse": "SEUM",
+    "libelle": "Seum",
+    "indices": [
+      "Ce mot vient de l'arabe, où il désigne le poison.",
+      "On l'a quand on perd au tout dernier moment.",
+      "On peut « l'avoir », ou carrément « le prendre ».",
+      "Il fait 4 lettres.",
+      "Un boomer dirait : « avoir les boules »."
+    ],
+    "explication": "Le seum, c'est la frustration ou la rage d'avoir perdu, raté ou de s'être fait avoir. Inusable : il résiste depuis plus de 15 ans."
+  },
+  "sources": []
+}
