@@ -1,6 +1,6 @@
 {
   "nom": "Boomerz",
-  "url_site": "https://boomerz.fr",
+  "url_site": "https://boomerz.guillaume-belhomme.workers.dev",
   "description": "Boomerz, le dico de la Gen Z pour les boomers : chaque jour, un mot d'argot jeune expliqué aux boomers, à la Gen X et aux millennials, avec son équivalent des années 80, 90 et 2000.",
   "fuseau": "Europe/Paris",
   "email_contact": "",
@@ -9,7 +9,7 @@
     "contact": "[ADRESSE EMAIL DE CONTACT]"
   },
   "pub": {
-    "afficher_emplacements_vides": true,
+    "afficher_emplacements_vides": false,
     "bandeau_1_html": "",
     "bandeau_2_html": ""
   }
