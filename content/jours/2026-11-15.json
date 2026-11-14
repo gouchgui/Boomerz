@@ -1,0 +1,50 @@
+{
+  "date": "2026-11-15",
+  "statut": "brouillon",
+  "slug": "delulu",
+  "mot": "Délulu",
+  "prononciation": "dé-lou-lou",
+  "nature": "adjectif (« t'es délulu »)",
+  "definition": "Qui croit dur comme fer à quelque chose d'improbable : que son crush va répondre, que le prof a oublié l'interro, qu'il va devenir millionnaire en un été. Souvent dit avec tendresse, parfois avec fierté.",
+  "definition_courte": "Qui se fait des films, avec conviction",
+  "origine": "Diminutif de l'anglais « delusional » (qui délire, qui se berce d'illusions). Le mot naît vers 2014 chez les fans de K-pop, pour se moquer gentiment de ceux qui pensaient épouser leur idole. Il explose sur TikTok en 2023 avec le slogan « delulu is the solulu » : se faire des films serait la solution. Le dictionnaire Cambridge l'a ajouté en 2025.",
+  "exemple": "Elle a liké sa story il y a trois semaines, il prépare déjà le mariage. Il est complètement délulu.",
+  "traduction_boomer": "Se faire des films. Prendre ses désirs pour des réalités.",
+  "gene_parent": 3,
+  "etat": "en-forme",
+  "rarete": "rare",
+  "apparu": "2014",
+  "meme": {
+    "description": "Des vidéos TikTok où des jeunes affichent fièrement leurs projets les plus improbables, avec en légende « delulu is the solulu ».",
+    "plateforme": "TikTok",
+    "annee": "2023",
+    "embed_url": null
+  },
+  "generations": [
+    { "epoque": "XVIIe siècle", "dit": "Faire des châteaux en Espagne", "incarne": "Perrette et le Pot au lait, chez La Fontaine" },
+    { "epoque": "1970", "dit": "Avoir la tête dans les nuages", "incarne": "Gaston Lagaffe, rêveur en chef" },
+    { "epoque": "1980", "dit": "Être dans sa bulle", "incarne": "Le Walkman vissé sur les oreilles" },
+    { "epoque": "1990", "dit": "Croire au prince charmant", "incarne": "Le poster de son idole au-dessus du lit" },
+    { "epoque": "2000", "dit": "Se faire des films", "incarne": "Bridget Jones et son journal (2001)" },
+    { "epoque": "2020", "dit": "Être délulu", "incarne": "« Delulu is the solulu » sur TikTok (2023)" }
+  ],
+  "genealogie": ["Châteaux en Espagne", "Tête dans les nuages", "Dans sa bulle", "Se faire des films", "Délulu"],
+  "trendle": {
+    "reponse": "GOAT",
+    "libelle": "GOAT",
+    "indices": [
+      "C'est un sigle anglais de quatre mots.",
+      "On le dit de Zidane, de Messi ou de sa grand-mère quand elle fait des crêpes.",
+      "Sur les réseaux, on le remplace souvent par l'emoji d'un animal à cornes.",
+      "Il fait 4 lettres, et c'est aussi le nom d'une chèvre en anglais.",
+      "Un boomer dirait : « le meilleur de tous les temps »."
+    ],
+    "explication": "GOAT veut dire « Greatest Of All Time », le plus grand de tous les temps. Né dans le sport américain, il sert aujourd'hui à sacrer n'importe qui ou n'importe quoi."
+  },
+  "sources": [
+    "https://www.merriam-webster.com/slang/delulu",
+    "https://sherpas.com/blog/parents/a/delulu-definition/",
+    "https://www.buzzwebzine.fr/lexique/delulu/",
+    "https://www.ibtimes.co.uk/after-skibidi-delulu-tradwife-make-their-way-cambridge-dictionary-meaning-use-significance-1741533"
+  ]
+}
