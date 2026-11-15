@@ -1,0 +1,49 @@
+{
+  "date": "2026-11-16",
+  "statut": "brouillon",
+  "slug": "six-seven",
+  "mot": "Six seven (67)",
+  "prononciation": "sixe sé-veune",
+  "nature": "interjection (avec le geste des mains)",
+  "definition": "Un cri qui ne veut rien dire, et c'est tout l'intérêt. Les ados le lancent dès qu'ils entendent le nombre 67 (ou 6, ou 7), en faisant monter et descendre les mains comme une balance. Ça peut vouloir dire « bof, comme ci comme ça », ou rien du tout.",
+  "definition_courte": "Cri absurde, sans sens, avec geste des mains",
+  "origine": "Tout part du rappeur américain Skrilla et de son titre « Doot Doot (6 7) », fin 2024. Le son est repris dans des montages TikTok du basketteur LaMelo Ball, qui mesure 6 pieds 7 pouces (2,01 m). En 2025, un gamin filmé en train de hurler « six seven » au bord d'un terrain de basket devient un mème mondial. Les cours de récré suivent, en France aussi. Dictionary.com en a fait son mot de l'année 2025, en avouant qu'il n'a pas de définition.",
+  "exemple": "Le prof annonce : ouvrez le livre page 67. Toute la classe, en chœur : SIX SEVEN ! Le prof soupire.",
+  "traduction_boomer": "Un « Kamoulox ! » de cour de récré. Ça ne veut rien dire, mais tout le monde rigole.",
+  "gene_parent": 5,
+  "etat": "en-forme",
+  "rarete": "epique",
+  "apparu": "2024",
+  "meme": {
+    "description": "Le « 67 kid » : un jeune garçon, filmé dans les tribunes d'un match de basket, qui crie « six seven » face caméra en agitant les mains de haut en bas.",
+    "plateforme": "TikTok",
+    "annee": "2025",
+    "embed_url": null
+  },
+  "generations": [
+    { "epoque": "XVIIe siècle", "dit": "Lanturlu !", "incarne": "Un refrain de chanson moqueur, devenu une façon de répondre sans rien dire" },
+    { "epoque": "1970", "dit": "Ça plane pour moi", "incarne": "Plastic Bertrand et son refrain absurde (1977)" },
+    { "epoque": "1980", "dit": "Coin-coin, la danse des canards", "incarne": "J.J. Lionel et la Danse des canards (1980), avec gestes obligatoires" },
+    { "epoque": "1990", "dit": "Whassup !", "incarne": "La pub Budweiser où des copains se crient « Whassup » (1999)" },
+    { "epoque": "2000", "dit": "Kamoulox !", "incarne": "Kad et Olivier et leur jeu sans queue ni tête à la télé" },
+    { "epoque": "2020", "dit": "Six seven !", "incarne": "Le « 67 kid » au basket et le titre de Skrilla (2025)" }
+  ],
+  "genealogie": ["Lanturlu", "Ça plane pour moi", "Whassup", "Kamoulox", "Six seven"],
+  "trendle": {
+    "reponse": "SLAY",
+    "libelle": "Slay",
+    "indices": [
+      "À l'origine, c'est un verbe anglais qu'on emploie pour tuer un dragon.",
+      "Il a été popularisé par la scène ballroom et drag de New York.",
+      "On le crie à une copine qui débarque avec une tenue de folie.",
+      "Il fait 4 lettres et rime avec « play ».",
+      "Un boomer dirait : « Tu assures, tu es au top ! »"
+    ],
+    "explication": "Slay veut dire « tuer » en anglais. Chez la Gen Z, ça veut dire réussir quelque chose avec brio : « elle a slay », elle a tout déchiré."
+  },
+  "sources": [
+    "https://npr.org/2025/10/31/nx-s1-5593052/67-dictionary-word-of-the-year-2025",
+    "https://www.journaldugeek.com/2026/07/06/six-seven-cest-quoi-cette-expression-absurde-et-virale-qui-fait-fureur-chez-les-jeunes/",
+    "https://www.nssmag.com/fr/fashion/43053/que-signifie-six-seven-meme-tiktok"
+  ]
+}
