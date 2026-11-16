@@ -1,0 +1,50 @@
+{
+  "date": "2026-11-17",
+  "statut": "brouillon",
+  "slug": "brainrot",
+  "mot": "Brainrot",
+  "prononciation": "brèïne-rotte",
+  "nature": "nom (et adjectif)",
+  "definition": "Littéralement « cerveau pourri ». C'est l'effet de trop de vidéos courtes et absurdes sur ton cerveau, et aussi ces vidéos elles-mêmes. Les ados l'emploient avec autodérision : « j'ai trop de brainrot ». Par extension, c'est tout un langage de mèmes absurdes qui ne parle qu'aux initiés.",
+  "definition_courte": "Cerveau ramolli par trop de vidéos absurdes",
+  "origine": "Le mot existe depuis longtemps en anglais, mais il explose sur TikTok vers 2023. En 2024, le dictionnaire d'Oxford en fait son mot de l'année. En 2025, le « brainrot italien » envahit les cours de récré françaises : des créatures absurdes générées par IA, comme un requin en baskets nommé Tralalero Tralala, avec de faux noms italiens.",
+  "exemple": "Mon fils m'a parlé d'un requin en baskets pendant tout le dîner. Il dit que c'est du brainrot et que c'est normal.",
+  "traduction_boomer": "Tu vas finir abruti devant ta télé !",
+  "gene_parent": 3,
+  "etat": "en-forme",
+  "rarete": "rare",
+  "apparu": "2023",
+  "meme": {
+    "description": "Tralalero Tralala : un requin bleu chaussé de baskets, généré par IA, sur une voix qui débite des fausses phrases italiennes. La star du « brainrot italien », reprise en boucle par les collégiens.",
+    "plateforme": "TikTok",
+    "annee": "2025",
+    "embed_url": null
+  },
+  "generations": [
+    { "epoque": "1854", "dit": "Brain-rot", "incarne": "Henry David Thoreau, dans Walden, qui se moque déjà d'une société qui préfère les idées simples" },
+    { "epoque": "1970", "dit": "La télé, ça rend con", "incarne": "Le poste couleur allumé toute la soirée dans le salon" },
+    { "epoque": "1980", "dit": "Tu vas t'abîmer les yeux", "incarne": "Le Club Dorothée et les dessins animés à la chaîne" },
+    { "epoque": "1990", "dit": "Accro à la Game Boy", "incarne": "Tetris joué sous la couette jusqu'à pas d'heure" },
+    { "epoque": "2000", "dit": "Temps de cerveau disponible", "incarne": "La formule de Patrick Le Lay, patron de TF1, en 2004" },
+    { "epoque": "2020", "dit": "Brainrot", "incarne": "Tralalero Tralala et le scroll infini de TikTok" }
+  ],
+  "genealogie": ["Thoreau", "La télé rend con", "Club Dorothée", "Temps de cerveau disponible", "Brainrot"],
+  "trendle": {
+    "reponse": "CHEH",
+    "libelle": "Cheh",
+    "indices": [
+      "Il vient de l'arabe dialectal, où il sert à se réjouir du malheur d'un autre.",
+      "On le lâche avec un petit sourire en coin, jamais par compassion.",
+      "Ton pote rate son bus après s'être moqué de toi : c'est le moment.",
+      "Il fait 4 lettres et ressemble à un éternuement.",
+      "Un boomer dirait : « Bien fait pour toi ! »"
+    ],
+    "explication": "Cheh (ou tcheh) veut dire « bien fait pour toi ». Gentiment moqueur, il se dit quand quelqu'un récolte ce qu'il a semé."
+  },
+  "sources": [
+    "https://www.pourquoidocteur.fr/Articles/Question-d-actu/49977-Brain-rot-terme-elu-mot-l-annee-2024-retourne-cerveau",
+    "https://www.nssmag.com/fr/lifestyle/39042/brain-rot-signification-gen-z",
+    "https://fr.euronews.com/2025/09/18/abrutissement-numerique-ces-memes-absurdes-generes-par-lia-sont-partout",
+    "https://www.welivesecurity.com/fr/education-a-la-cybersecurite/brainrot-pourquoi-les-enfants-parlent-ils-tous-ce-langage-venu-du-web/"
+  ]
+}
