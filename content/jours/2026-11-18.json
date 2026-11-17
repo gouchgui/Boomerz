@@ -1,0 +1,50 @@
+{
+  "date": "2026-11-18",
+  "statut": "brouillon",
+  "slug": "crush",
+  "mot": "Crush",
+  "prononciation": "creuche",
+  "nature": "nom (masculin)",
+  "definition": "Une attirance forte, souvent secrète, pour quelqu'un. Le mot désigne à la fois le sentiment et la personne qui le provoque : « j'ai un crush » ou « c'est mon crush ». Ce n'est ni un coup de foudre, ni une histoire d'amour. Plutôt une rêverie qu'on raconte surtout à ses copains.",
+  "definition_courte": "Le béguin, ou la personne pour qui on l'a",
+  "origine": "Il vient de l'anglais « to crush », écraser. Le sens amoureux apparaît aux États-Unis à la fin du XIXe siècle, d'abord dans les écoles de filles. En France, il s'installe chez les ados avec Snapchat et Instagram, puis chez tout le monde. En 2026, le Petit Larousse l'accueille dans son édition 2027.",
+  "exemple": "Ma fille a changé trois fois de tenue ce matin. Il paraît que son crush est dans le même bus.",
+  "traduction_boomer": "Avoir le béguin pour quelqu'un.",
+  "gene_parent": 3,
+  "etat": "en-forme",
+  "rarete": "commune",
+  "apparu": "2015",
+  "meme": {
+    "description": "Pas un mème unique, mais tout un genre : les vidéos « quand ton crush like ta story » ou « POV : ton crush te répond enfin », où l'on joue la panique, le cœur qui s'emballe et la capture d'écran envoyée aux copines.",
+    "plateforme": "TikTok et Instagram",
+    "annee": "2020",
+    "embed_url": null
+  },
+  "generations": [
+    { "epoque": "1897", "dit": "Aimer en secret", "incarne": "Cyrano de Bergerac, d'Edmond Rostand, qui écrit à Roxane des lettres d'amour signées par un autre" },
+    { "epoque": "1960", "dit": "Avoir un ticket", "incarne": "Les posters de Salut les copains punaisés au-dessus du lit" },
+    { "epoque": "1980", "dit": "En pincer pour quelqu'un", "incarne": "Vic, l'héroïne de La Boum, et son slow avec Mathieu" },
+    { "epoque": "1990", "dit": "Avoir un faible pour", "incarne": "Le petit mot plié en quatre, passé de main en main en classe" },
+    { "epoque": "2000", "dit": "Kiffer quelqu'un", "incarne": "La conversation MSN qu'on n'ose pas ouvrir" },
+    { "epoque": "2020", "dit": "Avoir un crush", "incarne": "La story Instagram publiée juste pour qu'une seule personne la voie" }
+  ],
+  "genealogie": ["Cyrano", "Avoir un ticket", "En pincer", "Kiffer", "Crush"],
+  "trendle": {
+    "reponse": "TARPIN",
+    "libelle": "Tarpin",
+    "indices": [
+      "Il entre dans le Petit Larousse 2027, avec un fort accent du Sud.",
+      "On l'entend d'abord sur le Vieux-Port, avant tout le reste de la France.",
+      "C'est un adverbe : il se met après un adjectif ou un verbe pour l'amplifier.",
+      "Il fait 6 lettres et rime avec « sapin ».",
+      "Un boomer dirait : « beaucoup », ou « vachement »."
+    ],
+    "explication": "Tarpin veut dire « beaucoup », « très ». Cette expression marseillaise a conquis les ados de toute la France : « il fait tarpin chaud ». Elle entre dans le Petit Larousse 2027."
+  },
+  "sources": [
+    "https://www.journaldugeek.com/2026/05/05/crush-vocal-dinguerie-soumission-chimique-les-nouveaux-mots-du-dico-sont-la/",
+    "https://lebonbon.fr/paris/news/dinguerie-ma-gatee-tarpin-nouveaux-mots-entrent-dictionnaire/",
+    "https://sherpas.com/blog/parents/a/crush/",
+    "https://www.journaldeleconomie.fr/mots-larousse-2027-crush-ia/"
+  ]
+}
