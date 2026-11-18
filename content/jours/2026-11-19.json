@@ -1,0 +1,49 @@
+{
+  "date": "2026-11-19",
+  "statut": "brouillon",
+  "slug": "cooked",
+  "mot": "Cooked",
+  "prononciation": "coukte",
+  "nature": "adjectif",
+  "definition": "Fichu, perdu, sans espoir. Être « cooked », c'est être cuit : la situation a mal tourné et on n'y peut plus grand-chose. On le dit d'un contrôle raté, d'un retard impossible à rattraper, ou d'un post vraiment gênant. On le dit aussi quand on est lessivé. Et souvent, on le dit en riant.",
+  "definition_courte": "Fichu, cuit, sans espoir",
+  "origine": "C'est de l'anglais : « cooked » veut dire cuit. Le sens « fichu » existe déjà au XIXe siècle en Grande-Bretagne. La Gen Z l'a ressorti du placard sur les réseaux sociaux, avec la question rituelle « Chat, are we cooked? » (« Le chat, on est cuits ? »). En 2025 et 2026, il traverse la Manche et s'installe chez les ados français amateurs de franglais.",
+  "exemple": "Le prof a dit que le contrôle de maths tombait demain. J'ai rien révisé, je suis cooked.",
+  "traduction_boomer": "Les carottes sont cuites.",
+  "gene_parent": 3,
+  "etat": "en-forme",
+  "rarete": "rare",
+  "apparu": "2024",
+  "meme": {
+    "description": "La formule « Chat, are we cooked? », lancée face caméra ou en légende d'une vidéo catastrophe. On l'adresse au « chat », les spectateurs d'un live, comme si on leur demandait le diagnostic. Elle est déclinée en « We are so cooked » sous chaque mauvaise nouvelle, de la note ratée à la panne de wifi.",
+    "plateforme": "TikTok, X et Twitch",
+    "annee": "2024",
+    "embed_url": null
+  },
+  "generations": [
+    { "epoque": "XIXe siècle", "dit": "Les carottes sont cuites", "incarne": "Waterloo, la défaite qui a fait de « Morne plaine » un état d'esprit" },
+    { "epoque": "1960", "dit": "Être fait comme un rat", "incarne": "Les Tontons flingueurs, où chaque plan finit par déraper" },
+    { "epoque": "1980", "dit": "C'est la cata", "incarne": "Le carnet de correspondance à faire signer le soir même" },
+    { "epoque": "1990", "dit": "C'est mort", "incarne": "Le Tamagotchi oublié tout un week-end au fond du cartable" },
+    { "epoque": "2000", "dit": "C'est la loose", "incarne": "Le forfait SMS épuisé dès le 3 du mois" },
+    { "epoque": "2020", "dit": "Je suis cooked", "incarne": "La notification Pronote qui tombe un dimanche soir" }
+  ],
+  "genealogie": ["Les carottes sont cuites", "Fait comme un rat", "La cata", "C'est mort", "La loose", "Cooked"],
+  "trendle": {
+    "reponse": "RATIO",
+    "libelle": "Ratio",
+    "indices": [
+      "Il vient des maths, mais les profs de maths ne l'utilisent pas comme ça.",
+      "Il se joue surtout sur X, dans les réponses sous un message.",
+      "On l'écrit en réponse à quelqu'un pour lui dire : « je vais avoir plus de likes que toi ».",
+      "Il fait 5 lettres et commence par un R.",
+      "Un boomer dirait : « Il s'est fait moucher devant tout le monde »."
+    ],
+    "explication": "Un « ratio », c'est quand une réponse récolte plus de likes que le message d'origine. Preuve publique que la foule n'est pas de ton côté. On l'écrit aussi en commentaire pour défier l'auteur : « ratio »."
+  },
+  "sources": [
+    "https://www.merriam-webster.com/slang/cooked",
+    "https://www.presse-citron.net/que-signifie-lexpression-etre-cooked-quon-voit-partout-sur-les-reseaux-sociaux/",
+    "https://www.mentalfloss.com/language/slang/why-everyone-is-saying-cooked-what-it-means"
+  ]
+}
