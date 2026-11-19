@@ -1,0 +1,49 @@
+{
+  "date": "2026-11-20",
+  "statut": "brouillon",
+  "slug": "polyester",
+  "mot": "Polyester",
+  "prononciation": "po-li-ès-tère",
+  "nature": "adjectif",
+  "definition": "Faux, toc, surjoué. Est « polyester » tout ce qui veut avoir l'air chic ou spontané, mais sonne creux. La story « prise sur le vif » tournée en douze prises. L'excuse publique écrite par un communicant. L'influenceur qui s'extasie sur un produit parce qu'on le paie. Bref, du synthétique qui se fait passer pour de la soie.",
+  "definition_courte": "Faux, toc, qui sonne creux",
+  "origine": "C'est le nom d'un tissu synthétique, pas cher et pas très noble. En juillet 2026, sur TikTok, on qualifie de « polyester » des montages vidéo clinquants mais vides. En août, le mot explose sous la vidéo d'un jeune de 18 ans qui décrit sa vie rêvée : le commentaire le plus liké parle d'un « polyester lifestyle ». La presse anglophone, puis Euronews en français, s'en emparent. Clin d'œil involontaire : dans les années 1970, « polyester » voulait déjà dire ringard et bon marché.",
+  "exemple": "Il a posté une photo de lui en train de lire Proust au soleil couchant, avec trois filtres. Franchement, c'est polyester.",
+  "traduction_boomer": "C'est du toc.",
+  "gene_parent": 2,
+  "etat": "en-forme",
+  "rarete": "epique",
+  "apparu": "2026",
+  "meme": {
+    "description": "Les « Polyester Edits » : des montages TikTok tape-à-l'œil où des héros Marvel posent devant des extraits de leurs propres films. Puis le commentaire « polyester lifestyle », liké des dizaines de milliers de fois sous la vidéo d'un ado qui raconte sa vie d'adulte idéale. Depuis, on colle l'étiquette « Polyester Prince » à l'influenceur qui en fait trop.",
+    "plateforme": "TikTok, puis X",
+    "annee": "2026",
+    "embed_url": null
+  },
+  "generations": [
+    { "epoque": "XVIIe siècle", "dit": "Se parer des plumes du paon", "incarne": "Le Geai de La Fontaine, qui se déguise en paon et finit plumé" },
+    { "epoque": "1970", "dit": "C'est du toc", "incarne": "Le costume en polyester à pattes d'éph, qui brille sous les spots du disco" },
+    { "epoque": "1980", "dit": "C'est de la frime", "incarne": "« Polyester », le film de John Waters (1981), satire de la banlieue en tissu synthétique" },
+    { "epoque": "1990", "dit": "C'est bidon", "incarne": "La fausse Rolex rapportée des vacances" },
+    { "epoque": "2000", "dit": "C'est fake", "incarne": "La téléréalité « spontanée » où tout est écrit d'avance" },
+    { "epoque": "2020", "dit": "C'est polyester", "incarne": "La story « au naturel » tournée en douze prises" }
+  ],
+  "genealogie": ["Les plumes du paon", "Du toc", "De la frime", "Bidon", "Fake", "Polyester"],
+  "trendle": {
+    "reponse": "ASKIP",
+    "libelle": "Askip",
+    "indices": [
+      "On le glisse avant une info qu'on n'a pas vérifiée.",
+      "C'est la contraction d'une expression de quatre mots.",
+      "Il sert à lancer une rumeur sans en porter la responsabilité.",
+      "Il fait 5 lettres et commence par un A.",
+      "Un boomer dirait : « À ce qu'il paraît »."
+    ],
+    "explication": "« Askip », c'est « à ce qu'il paraît » prononcé à toute vitesse, puis écrit comme ça se dit. Parfait pour les potins : askip, le prof de maths part à la retraite."
+  },
+  "sources": [
+    "https://fr.euronews.com/2026/08/31/polyester-nouvelle-insulte-preferee-de-la-gen-z-et-pourquoi-cest-positif",
+    "https://grist.org/culture/gen-z-is-using-polyester-as-an-insult-its-actually-a-throwback/",
+    "https://knowyourmeme.com/memes/polyester-slang"
+  ]
+}
