@@ -1,0 +1,49 @@
+{
+  "date": "2026-11-22",
+  "statut": "brouillon",
+  "slug": "glow-up",
+  "mot": "Glow up",
+  "prononciation": "glo-eupe",
+  "nature": "nom / verbe",
+  "definition": "Une transformation spectaculaire, en mieux. Le plus souvent physique : nouvelle coupe, appareil dentaire enlevé, style enfin trouvé. Mais on parle aussi de glow up quand quelqu'un a pris confiance en lui ou a remis sa vie d'aplomb. Ça se dit d'une personne, et pour rire, d'un appartement ou d'un téléphone. L'inverse existe : le « glow down ».",
+  "definition_courte": "Une transformation spectaculaire, en mieux",
+  "origine": "C'est de l'anglais : un jeu de mots entre « grow up » (grandir) et « glow » (rayonner). Le mot naît dans le hip-hop américain. En 2013, le rappeur de Chicago Chief Keef le popularise avec son morceau « Gotta Glo Up One Day ». Les réseaux s'en emparent avec des photos avant/après, puis TikTok en fait une tendance mondiale. Les ados français l'emploient tel quel, et même comme verbe : « il a glow up ».",
+  "exemple": "T'as vu Léa à la rentrée ? Elle a fait un glow up de fou cet été.",
+  "traduction_boomer": "Le vilain petit canard est devenu un cygne.",
+  "gene_parent": 3,
+  "etat": "en-forme",
+  "rarete": "rare",
+  "apparu": "2013",
+  "meme": {
+    "description": "Le principe : deux photos côte à côte. À gauche, toi au collège, frange ratée et appareil dentaire. À droite, toi aujourd'hui, au sommet de ta forme. En 2021, TikTok se remplit de vidéos où chacun ressort sa vieille photo de classe avant le grand dévoilement.",
+    "plateforme": "Twitter, puis Instagram et TikTok",
+    "annee": "2013",
+    "embed_url": null
+  },
+  "generations": [
+    { "epoque": "XIXe siècle", "dit": "Le vilain petit canard devenu cygne", "incarne": "Le conte d'Andersen « Le Vilain Petit Canard » (1843)" },
+    { "epoque": "1970", "dit": "Être métamorphosée", "incarne": "Sandy à la fin de « Grease » (1978) : adieu jupe plissée, bonjour pantalon de cuir" },
+    { "epoque": "1980", "dit": "Changer de look", "incarne": "La permanente toute neuve sur la photo de classe" },
+    { "epoque": "1990", "dit": "Se faire relooker", "incarne": "« Pretty Woman » (1990) et la virée shopping de Julia Roberts" },
+    { "epoque": "2000", "dit": "Faire un relooking extrême", "incarne": "« Princesse malgré elle » (2001) : Anne Hathaway perd ses lunettes et ses frisottis" },
+    { "epoque": "2020", "dit": "Faire un glow up", "incarne": "Les vidéos avant/après sur TikTok" }
+  ],
+  "genealogie": ["Vilain petit canard", "Métamorphosée", "Changer de look", "Relooké", "Relooking extrême", "Glow up"],
+  "trendle": {
+    "reponse": "MID",
+    "libelle": "Mid",
+    "indices": [
+      "Le mot vient de l'anglais et veut dire « au milieu ».",
+      "On le dit d'un film, d'un resto ou d'une série qui ne mérite ni éloges ni critiques.",
+      "C'est la note qu'on donne quand on ne veut pas vexer, mais qu'on n'en pense pas moins.",
+      "Il fait 3 lettres et commence par un M.",
+      "Un boomer dirait : « Bof, sans plus. »"
+    ],
+    "explication": "« Mid », c'est moyen, quelconque. Pas nul, pas génial : tiède. « Ce burger est mid » veut dire qu'on ne reviendra pas."
+  },
+  "sources": [
+    "https://www.merriam-webster.com/slang/glow-up",
+    "https://www.dictionary.com/e/pop-culture/glow-up/",
+    "https://sherpas.com/blog/parents/a/glow-up/"
+  ]
+}
