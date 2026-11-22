@@ -1,0 +1,48 @@
+{
+  "date": "2026-11-23",
+  "statut": "brouillon",
+  "slug": "ick",
+  "mot": "L'ick",
+  "prononciation": "ik",
+  "nature": "nom",
+  "definition": "Un dégoût soudain pour quelqu'un qui te plaisait encore cinq minutes avant. Le déclic est souvent absurde : il court après le bus, il tape dans ses mains au restaurant, il dit « miam » à voix haute. Et c'est fini. Chacun a ses propres icks. On dit « avoir l'ick » ou « ça m'a mis l'ick ».",
+  "definition_courte": "Un dégoût soudain pour quelqu'un qui te plaisait",
+  "origine": "C'est de l'anglais : « ick », c'est « beurk ». Le mot naît en 1999 dans la série « Ally McBeal » : l'héroïne l'utilise pour parler d'un homme qui, d'un coup, ne lui fait plus aucun effet, comme si c'était une maladie qu'on attrape. Il reste discret jusqu'à la fin des années 2010, quand la téléréalité britannique « Love Island » le remet à la mode. Puis il explose sur TikTok au début des années 2020, et les ados français l'adoptent tel quel.",
+  "exemple": "Il était trop mignon, mais il a soufflé sur sa soupe en faisant du bruit. J'ai eu l'ick direct.",
+  "traduction_boomer": "Ça m'a coupé l'envie, d'un coup.",
+  "gene_parent": 4,
+  "etat": "en-forme",
+  "rarete": "rare",
+  "apparu": "1999",
+  "meme": {
+    "description": "Le format star : une vidéo face caméra où l'on énumère ses icks les plus improbables. Il porte une banane. Il dit « bon appétit » au self. Il trébuche sur le trottoir. Les commentaires s'enflamment pour ajouter les leurs. Tout part d'un épisode d'« Ally McBeal » de 1999, « Once in a Lifetime ».",
+    "plateforme": "Télévision, puis TikTok",
+    "annee": "1999",
+    "embed_url": null
+  },
+  "generations": [
+    { "epoque": "XVIIe siècle", "dit": "Être dégoûtée d'un galant", "incarne": "« Les Précieuses ridicules » de Molière (1659) : Cathos et Magdelon éconduisent leurs prétendants, trop peu raffinés à leur goût" },
+    { "epoque": "1970", "dit": "Ça m'a refroidie", "incarne": "Le cavalier en pattes d'eph qui écrase les pieds au bal du samedi soir" },
+    { "epoque": "1980", "dit": "Il est trop ringard", "incarne": "« La Boum » (1980) et le slow qui tourne mal" },
+    { "epoque": "1990", "dit": "Il me saoule", "incarne": "« Ally McBeal » (1997), la série qui va inventer le mot" },
+    { "epoque": "2000", "dit": "Il est relou", "incarne": "Le statut MSN qui passe de « en couple » à « célibataire »" },
+    { "epoque": "2020", "dit": "J'ai l'ick", "incarne": "Les listes d'icks absurdes sur TikTok" }
+  ],
+  "genealogie": ["Dégoûtée", "Refroidie", "Ringard", "Il me saoule", "Relou", "L'ick"],
+  "trendle": {
+    "reponse": "WESH",
+    "libelle": "Wesh",
+    "indices": [
+      "Le mot vient de l'arabe dialectal, où il sert à demander « quoi ? ».",
+      "Il sert à saluer, à s'étonner ou à protester, selon le ton.",
+      "On l'entend dans le rap français depuis les années 1990.",
+      "Il fait 4 lettres et commence par un W.",
+      "Un boomer dirait : « Salut, ça va ? »"
+    ],
+    "explication": "« Wesh », c'est un salut ou une interjection : « Wesh, bien ou quoi ? » Selon l'intonation, il veut dire bonjour, hein ? ou sérieux ?!"
+  },
+  "sources": [
+    "https://www.dictionary.com/e/slang/the-ick/",
+    "https://www.buzzwebzine.fr/lexique/ick/"
+  ]
+}
