@@ -1,0 +1,49 @@
+{
+  "date": "2026-11-24",
+  "statut": "brouillon",
+  "slug": "red-flag",
+  "mot": "Red flag",
+  "prononciation": "rède flague",
+  "nature": "nom",
+  "definition": "Un signal d'alerte chez quelqu'un. Un détail qui montre qu'il vaut mieux fuir. Il ne dit jamais merci au serveur ? Red flag. Il lit tes messages sans répondre pendant trois jours ? Red flag. On l'utilise surtout en amour, mais aussi en amitié ou au travail. Son contraire : le « green flag », le bon signe.",
+  "definition_courte": "Un signal d'alerte : mieux vaut fuir",
+  "origine": "C'est de l'anglais : « drapeau rouge ». Depuis des siècles, le drapeau rouge prévient du danger : sur les plages, sur les rails, sur les circuits. En anglais, « red flag » veut dire « signe inquiétant » depuis longtemps. En octobre 2021, les internautes se mettent à aligner l'émoji 🚩🚩🚩 sous chaque aveu douteux sur Twitter et TikTok. La mode traverse la Manche et les ados français l'adoptent tel quel.",
+  "exemple": "Il m'a dit qu'il n'aimait pas les chiens. Red flag, je bloque.",
+  "traduction_boomer": "Méfie-toi, ça sent le roussi.",
+  "gene_parent": 3,
+  "etat": "en-forme",
+  "rarete": "commune",
+  "apparu": "2021",
+  "meme": {
+    "description": "Une personne écrit un aveu anodin, du genre « je mets le lait avant les céréales ». En réponse, des dizaines de comptes alignent une rangée de petits drapeaux rouges 🚩🚩🚩. Le format a envahi Twitter puis TikTok à l'automne 2021, et il sert encore à juger tout et n'importe quoi.",
+    "plateforme": "Twitter, puis TikTok",
+    "annee": "2021",
+    "embed_url": null
+  },
+  "generations": [
+    { "epoque": "XIXe siècle", "dit": "Un mauvais parti", "incarne": "Les mères de famille des romans de Jane Austen, qui jaugent chaque prétendant" },
+    { "epoque": "1970", "dit": "Il n'est pas net", "incarne": "Le dragueur en chemise ouverte et gourmette au bal du 14 juillet" },
+    { "epoque": "1980", "dit": "Il sent l'arnaque", "incarne": "Le vendeur de voitures d'occasion qui jure que l'auto n'a jamais roulé" },
+    { "epoque": "1990", "dit": "Il est louche", "incarne": "Le correspondant de minitel rose qui ne veut jamais se montrer" },
+    { "epoque": "2000", "dit": "Il est chelou", "incarne": "Le profil Meetic sans photo" },
+    { "epoque": "2020", "dit": "Red flag", "incarne": "Les rangées de 🚩 sous les tweets et les vidéos TikTok" }
+  ],
+  "genealogie": ["Mauvais parti", "Pas net", "Arnaque", "Louche", "Chelou", "Red flag"],
+  "trendle": {
+    "reponse": "DRIP",
+    "libelle": "Drip",
+    "indices": [
+      "Le mot vient de l'anglais, où il veut dire « goutte ».",
+      "Il a été popularisé par le rap américain à la fin des années 2010.",
+      "On l'utilise pour complimenter une tenue.",
+      "Il fait 4 lettres et commence par un D.",
+      "Un boomer dirait : « Tu es drôlement bien sapé ! »"
+    ],
+    "explication": "Le « drip », c'est le style vestimentaire qui en jette. « T'as vu son drip ? » Il a remplacé le « swag », parti au cimetière des tendances."
+  },
+  "sources": [
+    "https://quillbot.com/fr/blog/vocabulaire/red-flag-def/",
+    "https://www.businessinsider.in/thelife/news/people-are-using-the-red-flag-emoji-to-signal-warning-signs-about-people-and-relationships-on-social-media/amp_articleshow/87001304.cms",
+    "https://en.wikipedia.org/wiki/Red_flag_(idiom)"
+  ]
+}
