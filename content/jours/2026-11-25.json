@@ -1,0 +1,49 @@
+{
+  "date": "2026-11-25",
+  "statut": "brouillon",
+  "slug": "skibidi",
+  "mot": "Skibidi",
+  "prononciation": "ski-bi-di",
+  "nature": "adjectif / interjection",
+  "definition": "Un mot qui veut tout dire et rien dire. Ça peut signifier « génial », « nul », « bizarre »… ou rien du tout. Les enfants le placent partout, juste pour rire ou pour faire enrager les adultes. Si tu ne comprends pas, c'est normal : c'est un peu le but.",
+  "definition_courte": "Mot passe-partout : génial, nul ou rien du tout",
+  "origine": "Tout part de « Skibidi Toilet », une série de petites vidéos absurdes publiée sur YouTube à partir de février 2023 par l'animateur Alexey Gerasimov. On y voit des têtes chantantes qui sortent de cuvettes de toilettes. La chanson qui les accompagne répète « skibidi dop dop yes yes ». Les vidéos font des milliards de vues chez les 8-14 ans, et le mot quitte l'écran pour envahir les cours de récré. En 2025, le dictionnaire anglais Cambridge l'a même ajouté à ses pages.",
+  "exemple": "Ton exposé sur les volcans, il était trop skibidi.",
+  "traduction_boomer": "C'est du charabia, mais ça veut dire que c'est rigolo.",
+  "gene_parent": 5,
+  "etat": "en-forme",
+  "rarete": "legendaire",
+  "apparu": "2023",
+  "meme": {
+    "description": "Une tête humaine dépasse d'une cuvette de toilettes et chante « skibidi dop dop yes yes » en dodelinant. Face à elle, des personnages à tête de caméra ou de haut-parleur mènent une guerre sans fin. Des dizaines d'épisodes, zéro dialogue, et des milliards de vues.",
+    "plateforme": "YouTube Shorts",
+    "annee": "2023",
+    "embed_url": null
+  },
+  "generations": [
+    { "epoque": "1916", "dit": "Dada", "incarne": "Tristan Tzara et le mouvement Dada, au nom choisi pour ne rien vouloir dire" },
+    { "epoque": "1960", "dit": "Supercalifragilisticexpialidocious", "incarne": "Mary Poppins et sa chanson au mot impossible" },
+    { "epoque": "1980", "dit": "Schtroumpfer", "incarne": "Les Schtroumpfs à la télé, qui schtroumpfent tout et n'importe quoi" },
+    { "epoque": "1990", "dit": "Ah que coucou", "incarne": "La marionnette de Johnny dans Les Guignols de l'info" },
+    { "epoque": "2000", "dit": "Kikoo lol", "incarne": "Les Skyblogs et les messages MSN pleins de smileys" },
+    { "epoque": "2020", "dit": "Skibidi", "incarne": "Les têtes chantantes de Skibidi Toilet sur YouTube" }
+  ],
+  "genealogie": ["Dada", "Supercalifragilisticexpialidocious", "Schtroumpfer", "Ah que coucou", "Kikoo lol", "Skibidi"],
+  "trendle": {
+    "reponse": "CHILL",
+    "libelle": "Chill",
+    "indices": [
+      "Le mot vient de l'anglais, où il évoque d'abord le froid.",
+      "On l'emploie pour une soirée, un endroit ou une personne.",
+      "C'est le contraire de stressé ou de speed.",
+      "Il fait 5 lettres et commence par un C.",
+      "Un boomer dirait : « Tranquille, pépère, cool Raoul. »"
+    ],
+    "explication": "Être « chill », c'est être détendu, cool, sans prise de tête. « On se fait une soirée chill ? » Le mot vient de l'anglais « to chill out », se calmer."
+  },
+  "sources": [
+    "https://www.pbs.org/newshour/arts/not-sure-what-skibidi-means-now-you-can-look-it-up-in-the-dictionary",
+    "https://www.merriam-webster.com/slang/skibidi",
+    "https://www.ladn.eu/?p=656584"
+  ]
+}
