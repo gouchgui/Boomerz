@@ -3,6 +3,11 @@
   "statut": "publie",
   "slug": "glow-up",
   "mot": "Glow up",
+  "aussi_ecrit": [
+    "glow-up",
+    "glowup",
+    "glow down"
+  ],
   "prononciation": "glo-eupe",
   "nature": "nom / verbe",
   "definition": "Une transformation spectaculaire, en mieux. Le plus souvent physique : nouvelle coupe, appareil dentaire enlevé, style enfin trouvé. Mais on parle aussi de glow up quand quelqu'un a pris confiance en lui ou a remis sa vie d'aplomb. Ça se dit d'une personne, et pour rire, d'un appartement ou d'un téléphone. L'inverse existe : le « glow down ».",
@@ -21,14 +26,45 @@
     "embed_url": null
   },
   "generations": [
-    { "epoque": "XIXe siècle", "dit": "Le vilain petit canard devenu cygne", "incarne": "Le conte d'Andersen « Le Vilain Petit Canard » (1843)" },
-    { "epoque": "1970", "dit": "Être métamorphosée", "incarne": "Sandy à la fin de « Grease » (1978) : adieu jupe plissée, bonjour pantalon de cuir" },
-    { "epoque": "1980", "dit": "Changer de look", "incarne": "La permanente toute neuve sur la photo de classe" },
-    { "epoque": "1990", "dit": "Se faire relooker", "incarne": "« Pretty Woman » (1990) et la virée shopping de Julia Roberts" },
-    { "epoque": "2000", "dit": "Faire un relooking extrême", "incarne": "« Princesse malgré elle » (2001) : Anne Hathaway perd ses lunettes et ses frisottis" },
-    { "epoque": "2020", "dit": "Faire un glow up", "incarne": "Les vidéos avant/après sur TikTok" }
+    {
+      "epoque": "XIXe siècle",
+      "dit": "Le vilain petit canard devenu cygne",
+      "incarne": "Le conte d'Andersen « Le Vilain Petit Canard » (1843)"
+    },
+    {
+      "epoque": "1970",
+      "dit": "Être métamorphosée",
+      "incarne": "Sandy à la fin de « Grease » (1978) : adieu jupe plissée, bonjour pantalon de cuir"
+    },
+    {
+      "epoque": "1980",
+      "dit": "Changer de look",
+      "incarne": "La permanente toute neuve sur la photo de classe"
+    },
+    {
+      "epoque": "1990",
+      "dit": "Se faire relooker",
+      "incarne": "« Pretty Woman » (1990) et la virée shopping de Julia Roberts"
+    },
+    {
+      "epoque": "2000",
+      "dit": "Faire un relooking extrême",
+      "incarne": "« Princesse malgré elle » (2001) : Anne Hathaway perd ses lunettes et ses frisottis"
+    },
+    {
+      "epoque": "2020",
+      "dit": "Faire un glow up",
+      "incarne": "Les vidéos avant/après sur TikTok"
+    }
   ],
-  "genealogie": ["Vilain petit canard", "Métamorphosée", "Changer de look", "Relooké", "Relooking extrême", "Glow up"],
+  "genealogie": [
+    "Vilain petit canard",
+    "Métamorphosée",
+    "Changer de look",
+    "Relooké",
+    "Relooking extrême",
+    "Glow up"
+  ],
   "trendle": {
     "reponse": "MID",
     "libelle": "Mid",

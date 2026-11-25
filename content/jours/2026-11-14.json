@@ -3,6 +3,11 @@
   "statut": "publie",
   "slug": "aura-farming",
   "mot": "Aura farming",
+  "aussi_ecrit": [
+    "aura farm",
+    "farmer de l'aura",
+    "+1000 aura"
+  ],
   "prononciation": "o-ra far-mingue",
   "nature": "nom / verbe (« il aura farm »)",
   "definition": "Cultiver son « aura » : avoir l'air cool, mystérieux ou impressionnant, en faisant bien semblant de ne pas essayer.",
@@ -21,14 +26,44 @@
     "embed_url": null
   },
   "generations": [
-    { "epoque": "XIXe siècle", "dit": "Un dandy", "incarne": "Brummell, et Baudelaire qui en fait un art" },
-    { "epoque": "1960", "dit": "Jouer les James Dean", "incarne": "James Dean, La Fureur de vivre" },
-    { "epoque": "1980", "dit": "Faire son Top Gun", "incarne": "Maverick, Ray-Ban et blouson" },
-    { "epoque": "1990", "dit": "Se la péter", "incarne": "Le caïd de la cour de récré" },
-    { "epoque": "2000", "dit": "Se la raconter", "incarne": "Brice de Nice (2005)" },
-    { "epoque": "2020", "dit": "Aura farmer", "incarne": "Le garçon de la pirogue (2025)" }
+    {
+      "epoque": "XIXe siècle",
+      "dit": "Un dandy",
+      "incarne": "Brummell, et Baudelaire qui en fait un art"
+    },
+    {
+      "epoque": "1960",
+      "dit": "Jouer les James Dean",
+      "incarne": "James Dean, La Fureur de vivre"
+    },
+    {
+      "epoque": "1980",
+      "dit": "Faire son Top Gun",
+      "incarne": "Maverick, Ray-Ban et blouson"
+    },
+    {
+      "epoque": "1990",
+      "dit": "Se la péter",
+      "incarne": "Le caïd de la cour de récré"
+    },
+    {
+      "epoque": "2000",
+      "dit": "Se la raconter",
+      "incarne": "Brice de Nice (2005)"
+    },
+    {
+      "epoque": "2020",
+      "dit": "Aura farmer",
+      "incarne": "Le garçon de la pirogue (2025)"
+    }
   ],
-  "genealogie": ["Dandy", "James Dean", "Top Gun", "Swag", "Aura"],
+  "genealogie": [
+    "Dandy",
+    "James Dean",
+    "Top Gun",
+    "Swag",
+    "Aura"
+  ],
   "trendle": {
     "reponse": "SEUM",
     "libelle": "Seum",

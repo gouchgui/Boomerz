@@ -3,6 +3,10 @@
   "statut": "publie",
   "slug": "crush",
   "mot": "Crush",
+  "aussi_ecrit": [
+    "avoir un crush",
+    "mon crush"
+  ],
   "prononciation": "creuche",
   "nature": "nom (masculin)",
   "definition": "Une attirance forte, souvent secrète, pour quelqu'un. Le mot désigne à la fois le sentiment et la personne qui le provoque : « j'ai un crush » ou « c'est mon crush ». Ce n'est ni un coup de foudre, ni une histoire d'amour. Plutôt une rêverie qu'on raconte surtout à ses copains.",
@@ -21,14 +25,44 @@
     "embed_url": null
   },
   "generations": [
-    { "epoque": "1897", "dit": "Aimer en secret", "incarne": "Cyrano de Bergerac, d'Edmond Rostand, qui écrit à Roxane des lettres d'amour signées par un autre" },
-    { "epoque": "1960", "dit": "Avoir un ticket", "incarne": "Les posters de Salut les copains punaisés au-dessus du lit" },
-    { "epoque": "1980", "dit": "En pincer pour quelqu'un", "incarne": "Vic, l'héroïne de La Boum, et son slow avec Mathieu" },
-    { "epoque": "1990", "dit": "Avoir un faible pour", "incarne": "Le petit mot plié en quatre, passé de main en main en classe" },
-    { "epoque": "2000", "dit": "Kiffer quelqu'un", "incarne": "La conversation MSN qu'on n'ose pas ouvrir" },
-    { "epoque": "2020", "dit": "Avoir un crush", "incarne": "La story Instagram publiée juste pour qu'une seule personne la voie" }
+    {
+      "epoque": "1897",
+      "dit": "Aimer en secret",
+      "incarne": "Cyrano de Bergerac, d'Edmond Rostand, qui écrit à Roxane des lettres d'amour signées par un autre"
+    },
+    {
+      "epoque": "1960",
+      "dit": "Avoir un ticket",
+      "incarne": "Les posters de Salut les copains punaisés au-dessus du lit"
+    },
+    {
+      "epoque": "1980",
+      "dit": "En pincer pour quelqu'un",
+      "incarne": "Vic, l'héroïne de La Boum, et son slow avec Mathieu"
+    },
+    {
+      "epoque": "1990",
+      "dit": "Avoir un faible pour",
+      "incarne": "Le petit mot plié en quatre, passé de main en main en classe"
+    },
+    {
+      "epoque": "2000",
+      "dit": "Kiffer quelqu'un",
+      "incarne": "La conversation MSN qu'on n'ose pas ouvrir"
+    },
+    {
+      "epoque": "2020",
+      "dit": "Avoir un crush",
+      "incarne": "La story Instagram publiée juste pour qu'une seule personne la voie"
+    }
   ],
-  "genealogie": ["Cyrano", "Avoir un ticket", "En pincer", "Kiffer", "Crush"],
+  "genealogie": [
+    "Cyrano",
+    "Avoir un ticket",
+    "En pincer",
+    "Kiffer",
+    "Crush"
+  ],
   "trendle": {
     "reponse": "TARPIN",
     "libelle": "Tarpin",

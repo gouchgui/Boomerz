@@ -3,6 +3,11 @@
   "statut": "publie",
   "slug": "ick",
   "mot": "L'ick",
+  "aussi_ecrit": [
+    "the ick",
+    "avoir l'ick",
+    "ick"
+  ],
   "prononciation": "ik",
   "nature": "nom",
   "definition": "Un dégoût soudain pour quelqu'un qui te plaisait encore cinq minutes avant. Le déclic est souvent absurde : il court après le bus, il tape dans ses mains au restaurant, il dit « miam » à voix haute. Et c'est fini. Chacun a ses propres icks. On dit « avoir l'ick » ou « ça m'a mis l'ick ».",
@@ -21,14 +26,45 @@
     "embed_url": null
   },
   "generations": [
-    { "epoque": "XVIIe siècle", "dit": "Être dégoûtée d'un galant", "incarne": "« Les Précieuses ridicules » de Molière (1659) : Cathos et Magdelon éconduisent leurs prétendants, trop peu raffinés à leur goût" },
-    { "epoque": "1970", "dit": "Ça m'a refroidie", "incarne": "Le cavalier en pattes d'eph qui écrase les pieds au bal du samedi soir" },
-    { "epoque": "1980", "dit": "Il est trop ringard", "incarne": "« La Boum » (1980) et le slow qui tourne mal" },
-    { "epoque": "1990", "dit": "Il me saoule", "incarne": "« Ally McBeal » (1997), la série qui va inventer le mot" },
-    { "epoque": "2000", "dit": "Il est relou", "incarne": "Le statut MSN qui passe de « en couple » à « célibataire »" },
-    { "epoque": "2020", "dit": "J'ai l'ick", "incarne": "Les listes d'icks absurdes sur TikTok" }
+    {
+      "epoque": "XVIIe siècle",
+      "dit": "Être dégoûtée d'un galant",
+      "incarne": "« Les Précieuses ridicules » de Molière (1659) : Cathos et Magdelon éconduisent leurs prétendants, trop peu raffinés à leur goût"
+    },
+    {
+      "epoque": "1970",
+      "dit": "Ça m'a refroidie",
+      "incarne": "Le cavalier en pattes d'eph qui écrase les pieds au bal du samedi soir"
+    },
+    {
+      "epoque": "1980",
+      "dit": "Il est trop ringard",
+      "incarne": "« La Boum » (1980) et le slow qui tourne mal"
+    },
+    {
+      "epoque": "1990",
+      "dit": "Il me saoule",
+      "incarne": "« Ally McBeal » (1997), la série qui va inventer le mot"
+    },
+    {
+      "epoque": "2000",
+      "dit": "Il est relou",
+      "incarne": "Le statut MSN qui passe de « en couple » à « célibataire »"
+    },
+    {
+      "epoque": "2020",
+      "dit": "J'ai l'ick",
+      "incarne": "Les listes d'icks absurdes sur TikTok"
+    }
   ],
-  "genealogie": ["Dégoûtée", "Refroidie", "Ringard", "Il me saoule", "Relou", "L'ick"],
+  "genealogie": [
+    "Dégoûtée",
+    "Refroidie",
+    "Ringard",
+    "Il me saoule",
+    "Relou",
+    "L'ick"
+  ],
   "trendle": {
     "reponse": "WESH",
     "libelle": "Wesh",

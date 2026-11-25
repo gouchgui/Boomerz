@@ -3,6 +3,10 @@
   "statut": "publie",
   "slug": "rizz",
   "mot": "Rizz",
+  "aussi_ecrit": [
+    "rizzer",
+    "rizz god"
+  ],
   "prononciation": "riz (comme le riz)",
   "nature": "nom (« avoir du rizz »), parfois verbe (« rizzer »)",
   "definition": "Le charisme pour séduire. Avoir du rizz, c'est savoir parler aux gens qui nous plaisent, avec aisance et un brin d'humour.",
@@ -21,14 +25,44 @@
     "embed_url": null
   },
   "generations": [
-    { "epoque": "XVIIe siècle", "dit": "Un Don Juan", "incarne": "Le héros de Molière (1665)" },
-    { "epoque": "1960", "dit": "Un tombeur", "incarne": "Alain Delon" },
-    { "epoque": "1980", "dit": "Un dragueur", "incarne": "Jean-Claude Dusse, Les Bronzés" },
-    { "epoque": "1990", "dit": "Avoir la tchatche", "incarne": "Le roi de la boum" },
-    { "epoque": "2000", "dit": "Savoir pécho", "incarne": "Les Beaux Gosses (2009)" },
-    { "epoque": "2020", "dit": "Avoir du rizz", "incarne": "Les « rizz gods » de TikTok" }
+    {
+      "epoque": "XVIIe siècle",
+      "dit": "Un Don Juan",
+      "incarne": "Le héros de Molière (1665)"
+    },
+    {
+      "epoque": "1960",
+      "dit": "Un tombeur",
+      "incarne": "Alain Delon"
+    },
+    {
+      "epoque": "1980",
+      "dit": "Un dragueur",
+      "incarne": "Jean-Claude Dusse, Les Bronzés"
+    },
+    {
+      "epoque": "1990",
+      "dit": "Avoir la tchatche",
+      "incarne": "Le roi de la boum"
+    },
+    {
+      "epoque": "2000",
+      "dit": "Savoir pécho",
+      "incarne": "Les Beaux Gosses (2009)"
+    },
+    {
+      "epoque": "2020",
+      "dit": "Avoir du rizz",
+      "incarne": "Les « rizz gods » de TikTok"
+    }
   ],
-  "genealogie": ["Don Juan", "Tombeur", "Tchatche", "Pécho", "Rizz"],
+  "genealogie": [
+    "Don Juan",
+    "Tombeur",
+    "Tchatche",
+    "Pécho",
+    "Rizz"
+  ],
   "trendle": {
     "reponse": "SUS",
     "libelle": "Sus",

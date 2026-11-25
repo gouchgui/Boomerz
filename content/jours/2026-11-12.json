@@ -3,6 +3,11 @@
   "statut": "publie",
   "slug": "ghoster",
   "mot": "Ghoster",
+  "aussi_ecrit": [
+    "ghosting",
+    "ghosté",
+    "se faire ghoster"
+  ],
   "prononciation": "gô-sté",
   "nature": "verbe (« il m'a ghosté »)",
   "definition": "Disparaître du jour au lendemain sans explication : ne plus répondre aux messages, aux appels, à rien. Comme un fantôme.",
@@ -21,14 +26,43 @@
     "embed_url": null
   },
   "generations": [
-    { "epoque": "XIXe siècle", "dit": "Filer à l'anglaise", "incarne": "Les Anglais, eux, disent « French leave »" },
-    { "epoque": "1960", "dit": "Poser un lapin", "incarne": "Le rendez-vous manqué sous l'horloge de la gare" },
-    { "epoque": "1980", "dit": "Faire le mort", "incarne": "Le répondeur qui ne rappelle jamais" },
-    { "epoque": "1990", "dit": "Ne plus rappeler sur le fixe", "incarne": "Le Tatoo qui reste muet" },
-    { "epoque": "2000", "dit": "Bloquer sur MSN", "incarne": "Le statut « Apparaître hors ligne »" },
-    { "epoque": "2020", "dit": "Ghoster", "incarne": "Le « Vu » sans réponse" }
+    {
+      "epoque": "XIXe siècle",
+      "dit": "Filer à l'anglaise",
+      "incarne": "Les Anglais, eux, disent « French leave »"
+    },
+    {
+      "epoque": "1960",
+      "dit": "Poser un lapin",
+      "incarne": "Le rendez-vous manqué sous l'horloge de la gare"
+    },
+    {
+      "epoque": "1980",
+      "dit": "Faire le mort",
+      "incarne": "Le répondeur qui ne rappelle jamais"
+    },
+    {
+      "epoque": "1990",
+      "dit": "Ne plus rappeler sur le fixe",
+      "incarne": "Le Tatoo qui reste muet"
+    },
+    {
+      "epoque": "2000",
+      "dit": "Bloquer sur MSN",
+      "incarne": "Le statut « Apparaître hors ligne »"
+    },
+    {
+      "epoque": "2020",
+      "dit": "Ghoster",
+      "incarne": "Le « Vu » sans réponse"
+    }
   ],
-  "genealogie": ["À l'anglaise", "Lapin", "Hors ligne", "Ghost"],
+  "genealogie": [
+    "À l'anglaise",
+    "Lapin",
+    "Hors ligne",
+    "Ghost"
+  ],
   "trendle": {
     "reponse": "FLEX",
     "libelle": "Flex",

@@ -16,9 +16,19 @@ build.js               le générateur
 AUTOMATISATION.md      les consignes des deux tâches quotidiennes
 ```
 
+## Pages générées
+
+- `/` : mot du jour, Trendle, quiz, album, cimetière
+- `/mot/<slug>/` : une fiche par mot (« Ça veut dire quoi X ? »), avec questions-réponses et données structurées
+- `/mots/` : dictionnaire de l'argot des jeunes, de A à Z
+- `/expressions-de-jeunes/` : toutes les expressions de l'année, de la plus récente à la plus ancienne
+- `/boomer-definition/`, `/generations/` : pages de fond sur les boomers et les générations
+- `/expressions-annees-80-90-2000/` : les expressions d'époque tirées des fiches
+- `sitemap.xml`, `robots.txt`, `404.html`
+
 ## Mise en ligne sur Cloudflare (gratuit)
 
-Le site est déployé comme Worker à fichiers statiques (voir `wrangler.jsonc`).
+Le site est déployé comme Worker (voir `wrangler.jsonc` et `worker.js`). `worker.js` redirige `www.boomerz.org` vers `boomerz.org`, et l'ancienne adresse `.workers.dev` quand `REDIRIGER_VERS_DOMAINE` vaut `"oui"` dans `wrangler.jsonc`.
 
 1. Workers & Pages › le projet `boomerz` › Settings › Build › Build configuration :
    - Build command : `node build.js`
@@ -38,6 +48,7 @@ Le mot affiché est la dernière fiche dont `statut` vaut `publie` et dont la da
   "statut": "brouillon",              // brouillon | publie | bloque
   "slug": "aura-farming",             // minuscules, chiffres, tirets ; unique
   "mot": "Aura farming",
+  "aussi_ecrit": ["aura farm", "+1000 aura"], // facultatif : autres graphies que les gens tapent
   "prononciation": "o-ra far-mingue",
   "nature": "nom / verbe",
   "definition": "Phrase complète.",

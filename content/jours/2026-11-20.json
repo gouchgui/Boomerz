@@ -3,6 +3,10 @@
   "statut": "publie",
   "slug": "polyester",
   "mot": "Polyester",
+  "aussi_ecrit": [
+    "c'est polyester",
+    "polyester lifestyle"
+  ],
   "prononciation": "po-li-ès-tère",
   "nature": "adjectif",
   "definition": "Faux, toc, surjoué. Est « polyester » tout ce qui veut avoir l'air chic ou spontané, mais sonne creux. La story « prise sur le vif » tournée en douze prises. L'excuse publique écrite par un communicant. L'influenceur qui s'extasie sur un produit parce qu'on le paie. Bref, du synthétique qui se fait passer pour de la soie.",
@@ -21,14 +25,45 @@
     "embed_url": null
   },
   "generations": [
-    { "epoque": "XVIIe siècle", "dit": "Se parer des plumes du paon", "incarne": "Le Geai de La Fontaine, qui se déguise en paon et finit plumé" },
-    { "epoque": "1970", "dit": "C'est du toc", "incarne": "Le costume en polyester à pattes d'éph, qui brille sous les spots du disco" },
-    { "epoque": "1980", "dit": "C'est de la frime", "incarne": "« Polyester », le film de John Waters (1981), satire de la banlieue en tissu synthétique" },
-    { "epoque": "1990", "dit": "C'est bidon", "incarne": "La fausse Rolex rapportée des vacances" },
-    { "epoque": "2000", "dit": "C'est fake", "incarne": "La téléréalité « spontanée » où tout est écrit d'avance" },
-    { "epoque": "2020", "dit": "C'est polyester", "incarne": "La story « au naturel » tournée en douze prises" }
+    {
+      "epoque": "XVIIe siècle",
+      "dit": "Se parer des plumes du paon",
+      "incarne": "Le Geai de La Fontaine, qui se déguise en paon et finit plumé"
+    },
+    {
+      "epoque": "1970",
+      "dit": "C'est du toc",
+      "incarne": "Le costume en polyester à pattes d'éph, qui brille sous les spots du disco"
+    },
+    {
+      "epoque": "1980",
+      "dit": "C'est de la frime",
+      "incarne": "« Polyester », le film de John Waters (1981), satire de la banlieue en tissu synthétique"
+    },
+    {
+      "epoque": "1990",
+      "dit": "C'est bidon",
+      "incarne": "La fausse Rolex rapportée des vacances"
+    },
+    {
+      "epoque": "2000",
+      "dit": "C'est fake",
+      "incarne": "La téléréalité « spontanée » où tout est écrit d'avance"
+    },
+    {
+      "epoque": "2020",
+      "dit": "C'est polyester",
+      "incarne": "La story « au naturel » tournée en douze prises"
+    }
   ],
-  "genealogie": ["Les plumes du paon", "Du toc", "De la frime", "Bidon", "Fake", "Polyester"],
+  "genealogie": [
+    "Les plumes du paon",
+    "Du toc",
+    "De la frime",
+    "Bidon",
+    "Fake",
+    "Polyester"
+  ],
   "trendle": {
     "reponse": "ASKIP",
     "libelle": "Askip",

@@ -194,3 +194,52 @@ h1,h2,h3{margin:0;letter-spacing:-.03em}
   .pub-1{min-height:100px}
   .pub-2{min-height:250px}
 }
+
+/* ---------- Référencement : nouvelles sections ---------- */
+.fil{font-size:13px;color:var(--muted);padding-top:18px}
+.fil a{color:var(--muted)}
+.titre-moyen{font-size:clamp(28px,4vw,40px);font-weight:800;letter-spacing:-.03em;line-height:1.1;margin-bottom:24px}
+.aussi{margin:14px 0 0;font-size:15px;color:var(--muted)}
+.voir-tout{margin-top:20px;font-size:17px}
+.proches{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:12px}
+.proches a{display:flex;flex-direction:column;gap:4px;background:var(--soft);border-radius:18px;padding:18px 20px;color:var(--ink);height:100%}
+.proches a:hover{text-decoration:none;background:#EDEDF0}
+.faq details{border-top:1px solid var(--line);padding:16px 0}
+.faq details:last-child{border-bottom:1px solid var(--line)}
+.faq summary{cursor:pointer;list-style:none}
+.faq summary::-webkit-details-marker{display:none}
+.faq summary h3{display:inline;font-size:20px;font-weight:700;letter-spacing:-.02em}
+.faq p{margin:8px 0 0;color:var(--ink2);max-width:780px}
+.sources{padding-top:20px;font-size:13px;color:var(--muted)}
+.sources a{color:var(--muted);text-decoration:underline}
+.prose{max-width:780px}
+.prose h2{font-size:28px;font-weight:800;margin:40px 0 10px}
+.prose p{color:var(--ink2);font-size:18px;line-height:1.6}
+.lettres{display:flex;flex-wrap:wrap;gap:8px;padding-bottom:24px}
+.lettres a{background:var(--soft);border-radius:980px;padding:6px 14px;font-weight:600;color:var(--ink)}
+.lettres a:hover{text-decoration:none;background:#EDEDF0}
+.lettre{font-size:32px;font-weight:800;margin:32px 0 14px}
+.liste-expr{padding-left:0;list-style:none;counter-reset:expr}
+.liste-expr li{counter-increment:expr;border-top:1px solid var(--line);padding:22px 0}
+.liste-expr h2{margin:0 0 8px;font-size:24px}
+.liste-expr h2::before{content:counter(expr) ". ";color:var(--muted)}
+.liste-expr h2 a{color:var(--ink)}
+.liste-expr p{margin:6px 0}
+.expr-ex{font-style:italic}
+.epoque-liste{list-style:none;padding:0;margin:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:12px}
+.epoque-liste li{background:var(--soft);border-radius:18px;padding:16px 18px;display:flex;flex-direction:column;gap:3px}
+.ep-dit{font-weight:800;font-size:19px;letter-spacing:-.02em}
+.ep-date{font-size:13px;color:var(--muted)}
+.ep-qui{font-size:14px;color:var(--ink2)}
+.ep-z{font-size:14px;margin-top:6px}
+.table-box{overflow-x:auto;margin:24px 0}
+.gen-table{border-collapse:collapse;width:100%;min-width:720px;font-size:15px}
+.gen-table caption{text-align:left;font-weight:700;margin-bottom:10px}
+.gen-table th,.gen-table td{border-top:1px solid var(--line);padding:12px 10px;text-align:left;vertical-align:top}
+.gen-table thead th{font-size:12px;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);border-top:0}
+.gen-table tbody th{font-weight:800}
+a.mini{text-decoration:none}
+.pied-liens{display:flex;flex-wrap:wrap;gap:8px 22px;margin-bottom:16px;font-size:13px}
+.pied-liens a{color:var(--ink2)}
+.carte-mot{margin:14px 0 0;font-size:26px;font-weight:800;letter-spacing:-.03em}
+.hero h1.h1-long{font-size:clamp(38px,5.5vw,64px);letter-spacing:-.035em;line-height:1.05;max-width:900px;margin:0 auto}

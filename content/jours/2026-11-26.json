@@ -3,6 +3,12 @@
   "statut": "brouillon",
   "slug": "lowkey",
   "mot": "Lowkey",
+  "aussi_ecrit": [
+    "low key",
+    "low-key",
+    "lwk",
+    "highkey"
+  ],
   "prononciation": "lo-ki",
   "nature": "adverbe / adjectif",
   "definition": "Un petit mot qu'on glisse dans une phrase pour dire « un peu », « mine de rien » ou « en secret ». Il sert à avouer un truc sans trop l'assumer. Souvent écrit « lwk » dans les messages. Son contraire, « highkey », veut dire qu'on assume à fond.",
@@ -21,14 +27,45 @@
     "embed_url": null
   },
   "generations": [
-    { "epoque": "XVIIe siècle", "dit": "En tapinois", "incarne": "Tartuffe, le faux dévot de Molière, qui avance masqué" },
-    { "epoque": "1960", "dit": "En loucedé", "incarne": "L'argot des Tontons flingueurs et les dialogues de Michel Audiard" },
-    { "epoque": "1980", "dit": "Mine de rien", "incarne": "L'inspecteur Columbo, qui fait semblant de partir avec « juste une dernière question »" },
-    { "epoque": "1990", "dit": "En scred", "incarne": "Le Tamagotchi caché dans la trousse pendant le cours de maths" },
-    { "epoque": "2000", "dit": "En mode discret", "incarne": "Le Nokia 3310 passé sur vibreur pendant le repas de famille" },
-    { "epoque": "2020", "dit": "Lowkey", "incarne": "Les « lwk » glissés dans les tweets et les commentaires TikTok" }
+    {
+      "epoque": "XVIIe siècle",
+      "dit": "En tapinois",
+      "incarne": "Tartuffe, le faux dévot de Molière, qui avance masqué"
+    },
+    {
+      "epoque": "1960",
+      "dit": "En loucedé",
+      "incarne": "L'argot des Tontons flingueurs et les dialogues de Michel Audiard"
+    },
+    {
+      "epoque": "1980",
+      "dit": "Mine de rien",
+      "incarne": "L'inspecteur Columbo, qui fait semblant de partir avec « juste une dernière question »"
+    },
+    {
+      "epoque": "1990",
+      "dit": "En scred",
+      "incarne": "Le Tamagotchi caché dans la trousse pendant le cours de maths"
+    },
+    {
+      "epoque": "2000",
+      "dit": "En mode discret",
+      "incarne": "Le Nokia 3310 passé sur vibreur pendant le repas de famille"
+    },
+    {
+      "epoque": "2020",
+      "dit": "Lowkey",
+      "incarne": "Les « lwk » glissés dans les tweets et les commentaires TikTok"
+    }
   ],
-  "genealogie": ["En tapinois", "En loucedé", "Mine de rien", "En scred", "En mode discret", "Lowkey"],
+  "genealogie": [
+    "En tapinois",
+    "En loucedé",
+    "Mine de rien",
+    "En scred",
+    "En mode discret",
+    "Lowkey"
+  ],
   "trendle": {
     "reponse": "BELEK",
     "libelle": "Belek",

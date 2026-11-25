@@ -3,6 +3,11 @@
   "statut": "publie",
   "slug": "brainrot",
   "mot": "Brainrot",
+  "aussi_ecrit": [
+    "brain rot",
+    "brain-rot",
+    "brainrot italien"
+  ],
   "prononciation": "brèïne-rotte",
   "nature": "nom (et adjectif)",
   "definition": "Littéralement « cerveau pourri ». C'est l'effet de trop de vidéos courtes et absurdes sur ton cerveau, et aussi ces vidéos elles-mêmes. Les ados l'emploient avec autodérision : « j'ai trop de brainrot ». Par extension, c'est tout un langage de mèmes absurdes qui ne parle qu'aux initiés.",
@@ -21,14 +26,44 @@
     "embed_url": null
   },
   "generations": [
-    { "epoque": "1854", "dit": "Brain-rot", "incarne": "Henry David Thoreau, dans Walden, qui se moque déjà d'une société qui préfère les idées simples" },
-    { "epoque": "1970", "dit": "La télé, ça rend con", "incarne": "Le poste couleur allumé toute la soirée dans le salon" },
-    { "epoque": "1980", "dit": "Tu vas t'abîmer les yeux", "incarne": "Le Club Dorothée et les dessins animés à la chaîne" },
-    { "epoque": "1990", "dit": "Accro à la Game Boy", "incarne": "Tetris joué sous la couette jusqu'à pas d'heure" },
-    { "epoque": "2000", "dit": "Temps de cerveau disponible", "incarne": "La formule de Patrick Le Lay, patron de TF1, en 2004" },
-    { "epoque": "2020", "dit": "Brainrot", "incarne": "Tralalero Tralala et le scroll infini de TikTok" }
+    {
+      "epoque": "1854",
+      "dit": "Brain-rot",
+      "incarne": "Henry David Thoreau, dans Walden, qui se moque déjà d'une société qui préfère les idées simples"
+    },
+    {
+      "epoque": "1970",
+      "dit": "La télé, ça rend con",
+      "incarne": "Le poste couleur allumé toute la soirée dans le salon"
+    },
+    {
+      "epoque": "1980",
+      "dit": "Tu vas t'abîmer les yeux",
+      "incarne": "Le Club Dorothée et les dessins animés à la chaîne"
+    },
+    {
+      "epoque": "1990",
+      "dit": "Accro à la Game Boy",
+      "incarne": "Tetris joué sous la couette jusqu'à pas d'heure"
+    },
+    {
+      "epoque": "2000",
+      "dit": "Temps de cerveau disponible",
+      "incarne": "La formule de Patrick Le Lay, patron de TF1, en 2004"
+    },
+    {
+      "epoque": "2020",
+      "dit": "Brainrot",
+      "incarne": "Tralalero Tralala et le scroll infini de TikTok"
+    }
   ],
-  "genealogie": ["Thoreau", "La télé rend con", "Club Dorothée", "Temps de cerveau disponible", "Brainrot"],
+  "genealogie": [
+    "Thoreau",
+    "La télé rend con",
+    "Club Dorothée",
+    "Temps de cerveau disponible",
+    "Brainrot"
+  ],
   "trendle": {
     "reponse": "CHEH",
     "libelle": "Cheh",

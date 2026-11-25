@@ -3,6 +3,12 @@
   "statut": "publie",
   "slug": "six-seven",
   "mot": "Six seven (67)",
+  "aussi_ecrit": [
+    "67",
+    "6-7",
+    "six-seven",
+    "6 7"
+  ],
   "prononciation": "sixe sé-veune",
   "nature": "interjection (avec le geste des mains)",
   "definition": "Un cri qui ne veut rien dire, et c'est tout l'intérêt. Les ados le lancent dès qu'ils entendent le nombre 67 (ou 6, ou 7), en faisant monter et descendre les mains comme une balance. Ça peut vouloir dire « bof, comme ci comme ça », ou rien du tout.",
@@ -21,14 +27,44 @@
     "embed_url": null
   },
   "generations": [
-    { "epoque": "XVIIe siècle", "dit": "Lanturlu !", "incarne": "Un refrain de chanson moqueur, devenu une façon de répondre sans rien dire" },
-    { "epoque": "1970", "dit": "Ça plane pour moi", "incarne": "Plastic Bertrand et son refrain absurde (1977)" },
-    { "epoque": "1980", "dit": "Coin-coin, la danse des canards", "incarne": "J.J. Lionel et la Danse des canards (1980), avec gestes obligatoires" },
-    { "epoque": "1990", "dit": "Whassup !", "incarne": "La pub Budweiser où des copains se crient « Whassup » (1999)" },
-    { "epoque": "2000", "dit": "Kamoulox !", "incarne": "Kad et Olivier et leur jeu sans queue ni tête à la télé" },
-    { "epoque": "2020", "dit": "Six seven !", "incarne": "Le « 67 kid » au basket et le titre de Skrilla (2025)" }
+    {
+      "epoque": "XVIIe siècle",
+      "dit": "Lanturlu !",
+      "incarne": "Un refrain de chanson moqueur, devenu une façon de répondre sans rien dire"
+    },
+    {
+      "epoque": "1970",
+      "dit": "Ça plane pour moi",
+      "incarne": "Plastic Bertrand et son refrain absurde (1977)"
+    },
+    {
+      "epoque": "1980",
+      "dit": "Coin-coin, la danse des canards",
+      "incarne": "J.J. Lionel et la Danse des canards (1980), avec gestes obligatoires"
+    },
+    {
+      "epoque": "1990",
+      "dit": "Whassup !",
+      "incarne": "La pub Budweiser où des copains se crient « Whassup » (1999)"
+    },
+    {
+      "epoque": "2000",
+      "dit": "Kamoulox !",
+      "incarne": "Kad et Olivier et leur jeu sans queue ni tête à la télé"
+    },
+    {
+      "epoque": "2020",
+      "dit": "Six seven !",
+      "incarne": "Le « 67 kid » au basket et le titre de Skrilla (2025)"
+    }
   ],
-  "genealogie": ["Lanturlu", "Ça plane pour moi", "Whassup", "Kamoulox", "Six seven"],
+  "genealogie": [
+    "Lanturlu",
+    "Ça plane pour moi",
+    "Whassup",
+    "Kamoulox",
+    "Six seven"
+  ],
   "trendle": {
     "reponse": "SLAY",
     "libelle": "Slay",

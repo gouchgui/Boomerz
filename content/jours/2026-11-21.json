@@ -3,6 +3,11 @@
   "statut": "publie",
   "slug": "maxxing",
   "mot": "Maxxing",
+  "aussi_ecrit": [
+    "maxing",
+    "looksmaxxing",
+    "sleepmaxxing"
+  ],
   "prononciation": "max-ssingue",
   "nature": "nom / suffixe",
   "definition": "L'art de pousser un truc au maximum. Tout. Le sommeil, la lecture, les protéines, le confort du canapé. On colle « -maxxing » derrière n'importe quel mot et ça devient un programme d'optimisation. Sleepmaxxing : dormir comme un athlète. Booksmaxxing : enchaîner les livres. Cozymaxxing : la soirée plaid, mais en mode compétition. Parfois sérieux, souvent ironique.",
@@ -21,14 +26,45 @@
     "embed_url": null
   },
   "generations": [
-    { "epoque": "XVIIIe siècle", "dit": "Le mieux est l'ennemi du bien", "incarne": "Voltaire, qui glisse la formule dans son conte en vers « La Bégueule » (1772)" },
-    { "epoque": "1970", "dit": "À fond les manettes", "incarne": "Le Concorde, qui va plus vite que le son" },
-    { "epoque": "1980", "dit": "Se dépasser", "incarne": "« Gym Tonic » à la télé, justaucorps et jambières en prime" },
-    { "epoque": "1990", "dit": "Être au taquet", "incarne": "Le Tamagotchi, qu'il fallait nourrir sans relâche" },
-    { "epoque": "2000", "dit": "Être en mode turbo", "incarne": "Le BlackBerry consulté sous la table au dîner" },
-    { "epoque": "2020", "dit": "Faire du maxxing", "incarne": "Le sleepmaxxing, bouche scotchée et lunettes anti-lumière bleue" }
+    {
+      "epoque": "XVIIIe siècle",
+      "dit": "Le mieux est l'ennemi du bien",
+      "incarne": "Voltaire, qui glisse la formule dans son conte en vers « La Bégueule » (1772)"
+    },
+    {
+      "epoque": "1970",
+      "dit": "À fond les manettes",
+      "incarne": "Le Concorde, qui va plus vite que le son"
+    },
+    {
+      "epoque": "1980",
+      "dit": "Se dépasser",
+      "incarne": "« Gym Tonic » à la télé, justaucorps et jambières en prime"
+    },
+    {
+      "epoque": "1990",
+      "dit": "Être au taquet",
+      "incarne": "Le Tamagotchi, qu'il fallait nourrir sans relâche"
+    },
+    {
+      "epoque": "2000",
+      "dit": "Être en mode turbo",
+      "incarne": "Le BlackBerry consulté sous la table au dîner"
+    },
+    {
+      "epoque": "2020",
+      "dit": "Faire du maxxing",
+      "incarne": "Le sleepmaxxing, bouche scotchée et lunettes anti-lumière bleue"
+    }
   ],
-  "genealogie": ["Le mieux est l'ennemi du bien", "À fond les manettes", "Se dépasser", "Au taquet", "Mode turbo", "Maxxing"],
+  "genealogie": [
+    "Le mieux est l'ennemi du bien",
+    "À fond les manettes",
+    "Se dépasser",
+    "Au taquet",
+    "Mode turbo",
+    "Maxxing"
+  ],
   "trendle": {
     "reponse": "BANGER",
     "libelle": "Banger",

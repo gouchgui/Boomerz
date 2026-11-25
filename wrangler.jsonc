@@ -1,9 +1,15 @@
-// Configuration Cloudflare : le site statique généré par `node build.js` dans dist/
+// Configuration Cloudflare : le site statique généré par `node build.js` dans dist/,
+// servi par worker.js qui redirige toutes les autres adresses vers https://boomerz.org
 {
   "name": "boomerz",
+  "main": "worker.js",
   "compatibility_date": "2026-11-01",
+  "vars": { "REDIRIGER_VERS_DOMAINE": "non" },
   "assets": {
     "directory": "./dist",
-    "html_handling": "auto-trailing-slash"
+    "binding": "ASSETS",
+    "run_worker_first": true,
+    "html_handling": "auto-trailing-slash",
+    "not_found_handling": "404-page"
   }
 }

@@ -3,6 +3,11 @@
   "statut": "publie",
   "slug": "cooked",
   "mot": "Cooked",
+  "aussi_ecrit": [
+    "être cooked",
+    "we're cooked",
+    "are we cooked"
+  ],
   "prononciation": "coukte",
   "nature": "adjectif",
   "definition": "Fichu, perdu, sans espoir. Être « cooked », c'est être cuit : la situation a mal tourné et on n'y peut plus grand-chose. On le dit d'un contrôle raté, d'un retard impossible à rattraper, ou d'un post vraiment gênant. On le dit aussi quand on est lessivé. Et souvent, on le dit en riant.",
@@ -21,14 +26,45 @@
     "embed_url": null
   },
   "generations": [
-    { "epoque": "XIXe siècle", "dit": "Les carottes sont cuites", "incarne": "Waterloo, la défaite qui a fait de « Morne plaine » un état d'esprit" },
-    { "epoque": "1960", "dit": "Être fait comme un rat", "incarne": "Les Tontons flingueurs, où chaque plan finit par déraper" },
-    { "epoque": "1980", "dit": "C'est la cata", "incarne": "Le carnet de correspondance à faire signer le soir même" },
-    { "epoque": "1990", "dit": "C'est mort", "incarne": "Le Tamagotchi oublié tout un week-end au fond du cartable" },
-    { "epoque": "2000", "dit": "C'est la loose", "incarne": "Le forfait SMS épuisé dès le 3 du mois" },
-    { "epoque": "2020", "dit": "Je suis cooked", "incarne": "La notification Pronote qui tombe un dimanche soir" }
+    {
+      "epoque": "XIXe siècle",
+      "dit": "Les carottes sont cuites",
+      "incarne": "Waterloo, la défaite qui a fait de « Morne plaine » un état d'esprit"
+    },
+    {
+      "epoque": "1960",
+      "dit": "Être fait comme un rat",
+      "incarne": "Les Tontons flingueurs, où chaque plan finit par déraper"
+    },
+    {
+      "epoque": "1980",
+      "dit": "C'est la cata",
+      "incarne": "Le carnet de correspondance à faire signer le soir même"
+    },
+    {
+      "epoque": "1990",
+      "dit": "C'est mort",
+      "incarne": "Le Tamagotchi oublié tout un week-end au fond du cartable"
+    },
+    {
+      "epoque": "2000",
+      "dit": "C'est la loose",
+      "incarne": "Le forfait SMS épuisé dès le 3 du mois"
+    },
+    {
+      "epoque": "2020",
+      "dit": "Je suis cooked",
+      "incarne": "La notification Pronote qui tombe un dimanche soir"
+    }
   ],
-  "genealogie": ["Les carottes sont cuites", "Fait comme un rat", "La cata", "C'est mort", "La loose", "Cooked"],
+  "genealogie": [
+    "Les carottes sont cuites",
+    "Fait comme un rat",
+    "La cata",
+    "C'est mort",
+    "La loose",
+    "Cooked"
+  ],
   "trendle": {
     "reponse": "RATIO",
     "libelle": "Ratio",

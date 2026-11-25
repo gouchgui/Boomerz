@@ -42,12 +42,6 @@
       majAlbum();
     });
   });
-  document.querySelectorAll(".mini").forEach(function (m) {
-    m.addEventListener("click", function () {
-      var base = document.querySelector('link[rel="stylesheet"]').getAttribute("href").replace("assets/style.css", "");
-      window.location.href = base + "mot/" + m.dataset.slug + "/index.html";
-    });
-  });
   majAlbum();
 
   /* ---------- Trendle ---------- */

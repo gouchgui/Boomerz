@@ -3,6 +3,9 @@
   "statut": "publie",
   "slug": "dinguerie",
   "mot": "Dinguerie",
+  "aussi_ecrit": [
+    "c'est une dinguerie"
+  ],
   "prononciation": "din-gue-rie",
   "nature": "nom (« c'est une dinguerie »)",
   "definition": "Quelque chose d'incroyable, de fou, qui impressionne. Presque toujours en bien.",
@@ -21,14 +24,44 @@
     "embed_url": null
   },
   "generations": [
-    { "epoque": "XVIIIe siècle", "dit": "C'est prodigieux", "incarne": "Les automates de Vaucanson" },
-    { "epoque": "1960", "dit": "C'est le pied", "incarne": "Salut les copains et les yé-yé" },
-    { "epoque": "1980", "dit": "C'est géant", "incarne": "Le Top 50 du samedi" },
-    { "epoque": "1990", "dit": "C'est d'la balle", "incarne": "La première Game Boy" },
-    { "epoque": "2000", "dit": "C'est ouf", "incarne": "Le premier écran tactile" },
-    { "epoque": "2020", "dit": "Une dinguerie", "incarne": "Entrée au Petit Larousse 2027" }
+    {
+      "epoque": "XVIIIe siècle",
+      "dit": "C'est prodigieux",
+      "incarne": "Les automates de Vaucanson"
+    },
+    {
+      "epoque": "1960",
+      "dit": "C'est le pied",
+      "incarne": "Salut les copains et les yé-yé"
+    },
+    {
+      "epoque": "1980",
+      "dit": "C'est géant",
+      "incarne": "Le Top 50 du samedi"
+    },
+    {
+      "epoque": "1990",
+      "dit": "C'est d'la balle",
+      "incarne": "La première Game Boy"
+    },
+    {
+      "epoque": "2000",
+      "dit": "C'est ouf",
+      "incarne": "Le premier écran tactile"
+    },
+    {
+      "epoque": "2020",
+      "dit": "Une dinguerie",
+      "incarne": "Entrée au Petit Larousse 2027"
+    }
   ],
-  "genealogie": ["Prodigieux", "Le pied", "Géant", "Ouf", "Dinguerie"],
+  "genealogie": [
+    "Prodigieux",
+    "Le pied",
+    "Géant",
+    "Ouf",
+    "Dinguerie"
+  ],
   "trendle": {
     "reponse": "CRINGE",
     "libelle": "Cringe",

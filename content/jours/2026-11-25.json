@@ -3,6 +3,10 @@
   "statut": "publie",
   "slug": "skibidi",
   "mot": "Skibidi",
+  "aussi_ecrit": [
+    "skibidi toilet",
+    "skibidi dop dop yes yes"
+  ],
   "prononciation": "ski-bi-di",
   "nature": "adjectif / interjection",
   "definition": "Un mot qui veut tout dire et rien dire. Ça peut signifier « génial », « nul », « bizarre »… ou rien du tout. Les enfants le placent partout, juste pour rire ou pour faire enrager les adultes. Si tu ne comprends pas, c'est normal : c'est un peu le but.",
@@ -21,14 +25,45 @@
     "embed_url": null
   },
   "generations": [
-    { "epoque": "1916", "dit": "Dada", "incarne": "Tristan Tzara et le mouvement Dada, au nom choisi pour ne rien vouloir dire" },
-    { "epoque": "1960", "dit": "Supercalifragilisticexpialidocious", "incarne": "Mary Poppins et sa chanson au mot impossible" },
-    { "epoque": "1980", "dit": "Schtroumpfer", "incarne": "Les Schtroumpfs à la télé, qui schtroumpfent tout et n'importe quoi" },
-    { "epoque": "1990", "dit": "Ah que coucou", "incarne": "La marionnette de Johnny dans Les Guignols de l'info" },
-    { "epoque": "2000", "dit": "Kikoo lol", "incarne": "Les Skyblogs et les messages MSN pleins de smileys" },
-    { "epoque": "2020", "dit": "Skibidi", "incarne": "Les têtes chantantes de Skibidi Toilet sur YouTube" }
+    {
+      "epoque": "1916",
+      "dit": "Dada",
+      "incarne": "Tristan Tzara et le mouvement Dada, au nom choisi pour ne rien vouloir dire"
+    },
+    {
+      "epoque": "1960",
+      "dit": "Supercalifragilisticexpialidocious",
+      "incarne": "Mary Poppins et sa chanson au mot impossible"
+    },
+    {
+      "epoque": "1980",
+      "dit": "Schtroumpfer",
+      "incarne": "Les Schtroumpfs à la télé, qui schtroumpfent tout et n'importe quoi"
+    },
+    {
+      "epoque": "1990",
+      "dit": "Ah que coucou",
+      "incarne": "La marionnette de Johnny dans Les Guignols de l'info"
+    },
+    {
+      "epoque": "2000",
+      "dit": "Kikoo lol",
+      "incarne": "Les Skyblogs et les messages MSN pleins de smileys"
+    },
+    {
+      "epoque": "2020",
+      "dit": "Skibidi",
+      "incarne": "Les têtes chantantes de Skibidi Toilet sur YouTube"
+    }
   ],
-  "genealogie": ["Dada", "Supercalifragilisticexpialidocious", "Schtroumpfer", "Ah que coucou", "Kikoo lol", "Skibidi"],
+  "genealogie": [
+    "Dada",
+    "Supercalifragilisticexpialidocious",
+    "Schtroumpfer",
+    "Ah que coucou",
+    "Kikoo lol",
+    "Skibidi"
+  ],
   "trendle": {
     "reponse": "CHILL",
     "libelle": "Chill",
