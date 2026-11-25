@@ -75,5 +75,31 @@
     ],
     "explication": "Flexer, c'est étaler ce qu'on a pour impressionner : argent, objets, réussite. La version 2020 du bling-bling."
   },
+  "pour_aller_plus_loin": [
+    {
+      "type": "article",
+      "titre": "Se faire ghoster est insupportable, pourtant tout le monde le fait : ça en dit long sur notre société",
+      "source": "Slate",
+      "url": "https://www.slate.fr/societe/ghosting-insupportable-societe-connecte-solitude-abandon-message-absence-collectif-psychologie-rupture",
+      "langue": "fr",
+      "pourquoi": "Ce que les chercheurs disent du ghosting et de notre rapport au lien."
+    },
+    {
+      "type": "livre",
+      "titre": "Rupture(s)",
+      "auteur": "Claire Marin",
+      "editeur": "Éditions de l'Observatoire",
+      "annee": "2019",
+      "pourquoi": "La philosophe y décrit le ghosting comme une « vieille lâcheté » où l'on joue aux fantômes."
+    },
+    {
+      "type": "livre",
+      "titre": "La Fin de l'amour. Enquête sur un désarroi contemporain",
+      "auteur": "Eva Illouz",
+      "editeur": "Seuil",
+      "annee": "2020",
+      "pourquoi": "La sociologue décortique les relations « jetables » de l'ère des applis."
+    }
+  ],
   "sources": []
 }

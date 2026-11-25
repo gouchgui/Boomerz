@@ -74,5 +74,23 @@
     ],
     "explication": "Cringe, c'est la gêne qu'on ressent pour quelqu'un d'autre. Et oui : un parent qui dit « cringe », c'est cringe."
   },
+  "pour_aller_plus_loin": [
+    {
+      "type": "article",
+      "titre": "Dinguerie, ma gâtée, tarpin… Ces nouveaux mots qui entrent dans le dictionnaire",
+      "source": "Le Bonbon",
+      "url": "https://lebonbon.fr/paris/news/dinguerie-ma-gatee-tarpin-nouveaux-mots-entrent-dictionnaire/",
+      "langue": "fr",
+      "pourquoi": "Les mots de l'argot jeune et marseillais entrés au Petit Larousse 2027."
+    },
+    {
+      "type": "livre",
+      "titre": "Comment tu tchatches ! Dictionnaire du français contemporain des cités",
+      "auteur": "Jean-Pierre Goudaillier",
+      "editeur": "Maisonneuve et Larose",
+      "annee": "1997",
+      "pourquoi": "Le dictionnaire de référence de l'argot des jeunes, quand les boomers avaient encore des ados."
+    }
+  ],
   "sources": []
 }

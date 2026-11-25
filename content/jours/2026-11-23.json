@@ -77,6 +77,32 @@
     ],
     "explication": "« Wesh », c'est un salut ou une interjection : « Wesh, bien ou quoi ? » Selon l'intonation, il veut dire bonjour, hein ? ou sérieux ?!"
   },
+  "pour_aller_plus_loin": [
+    {
+      "type": "article",
+      "titre": "Savez-vous ce qu'est le « ick », ce petit hic qui transforme le désir sexuel ou amoureux en dégoût ?",
+      "source": "Slate",
+      "url": "https://www.slate.fr/societe/sexo-avoir-le-ick-tue-desir-sexuel-amoureux-degout-relation-rencontre-date-rapport-emotion-ressenti-red-flag-temoignages",
+      "langue": "fr",
+      "pourquoi": "Ce que dit la psychologie du dégoût soudain."
+    },
+    {
+      "type": "article",
+      "titre": "Le « ick », cet ennemi de la romance d'après la GenZ",
+      "source": "L'ADN",
+      "url": "https://www.ladn.eu/nouveaux-usages/le-ick-ces-petits-details-qui-tuent-lamour-pour-la-generation-z/",
+      "langue": "fr",
+      "pourquoi": "Pourquoi un détail peut tout faire basculer."
+    },
+    {
+      "type": "livre",
+      "titre": "La Fin de l'amour. Enquête sur un désarroi contemporain",
+      "auteur": "Eva Illouz",
+      "editeur": "Seuil",
+      "annee": "2020",
+      "pourquoi": "La sociologue décortique les relations « jetables » de l'ère des applis."
+    }
+  ],
   "sources": [
     "https://www.dictionary.com/e/slang/the-ick/",
     "https://www.buzzwebzine.fr/lexique/ick/"

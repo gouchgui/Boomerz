@@ -75,5 +75,31 @@
     ],
     "explication": "Bader, c'est avoir le moral à zéro. Baudelaire, lui, appelait ça le spleen."
   },
+  "pour_aller_plus_loin": [
+    {
+      "type": "article",
+      "titre": "La trend TikTok hyper gênante du NPC expliquée aux boomers",
+      "source": "Le Bonbon",
+      "url": "https://lebonbon.fr/paris/societe/cette-trend-bizarre-tiktok-du-npc-expliquee-aux-boomers/",
+      "langue": "fr",
+      "pourquoi": "Les lives de « personnages non-joueurs », décryptés par un ado."
+    },
+    {
+      "type": "article",
+      "titre": "Move over main character syndrome, it's all about NPCs now",
+      "source": "Dazed",
+      "url": "https://www.dazeddigital.com/life-culture/article/56692/1/are-npc-video-game-the-new-main-character-syndrome-tiktok",
+      "langue": "en",
+      "pourquoi": "D'insulte en ligne à tendance TikTok : l'histoire du mot."
+    },
+    {
+      "type": "livre",
+      "titre": "Le Quart Livre",
+      "auteur": "François Rabelais",
+      "editeur": "",
+      "annee": "1552",
+      "pourquoi": "L'épisode original des moutons de Panurge, qui se jettent à l'eau l'un après l'autre."
+    }
+  ],
   "sources": []
 }

@@ -77,6 +77,32 @@
     ],
     "explication": "Le « drip », c'est le style vestimentaire qui en jette. « T'as vu son drip ? » Il a remplacé le « swag », parti au cimetière des tendances."
   },
+  "pour_aller_plus_loin": [
+    {
+      "type": "livre",
+      "titre": "Réinventer l'amour. Comment le patriarcat sabote les relations hétérosexuelles",
+      "auteur": "Mona Chollet",
+      "editeur": "Zones",
+      "annee": "2021",
+      "pourquoi": "Un essai pour repérer ce qui cloche dans nos histoires d'amour."
+    },
+    {
+      "type": "article",
+      "titre": "What is ‘the ick’? A psychological scientist explains this TikTok trend",
+      "source": "The Conversation",
+      "url": "https://theconversation.com/what-is-the-ick-a-psychological-scientist-explains-this-tiktok-trend-169546",
+      "langue": "en",
+      "pourquoi": "Une psychologue explique comment on repère, ou on s'invente, des signaux d'alerte."
+    },
+    {
+      "type": "livre",
+      "titre": "Pourquoi l'amour fait mal. L'expérience amoureuse dans la modernité",
+      "auteur": "Eva Illouz",
+      "editeur": "Seuil",
+      "annee": "2012",
+      "pourquoi": "Ce que le marché de la séduction fait à nos sentiments."
+    }
+  ],
   "sources": [
     "https://quillbot.com/fr/blog/vocabulaire/red-flag-def/",
     "https://www.businessinsider.in/thelife/news/people-are-using-the-red-flag-emoji-to-signal-warning-signs-about-people-and-relationships-on-social-media/amp_articleshow/87001304.cms",

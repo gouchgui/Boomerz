@@ -39,6 +39,10 @@ const tous = fs.readdirSync(dir).filter((f) => f.endsWith(".json")).sort().map((
   if (!Array.isArray(j.trendle.indices) || j.trendle.indices.length !== 5) throw new Error(`${f} : le Trendle doit avoir 5 indices`);
   if (!/^[a-z0-9-]+$/.test(j.slug)) throw new Error(`${f} : slug invalide`);
   if (j.aussi_ecrit && !Array.isArray(j.aussi_ecrit)) throw new Error(`${f} : aussi_ecrit doit être une liste`);
+  (j.pour_aller_plus_loin || []).forEach((x, k) => {
+    const ok = x && x.titre && x.pourquoi && (x.type === "article" ? x.url && x.source : x.type === "livre" ? x.auteur : false);
+    if (!ok) throw new Error(`${f} : pour_aller_plus_loin[${k}] incomplet (article : titre, source, url, pourquoi ; livre : titre, auteur, pourquoi)`);
+  });
   if (!["publie", "brouillon", "bloque"].includes(j.statut)) throw new Error(`${f} : statut inconnu « ${j.statut} »`);
   return j;
 });
@@ -197,6 +201,24 @@ function details(j, p, { lien = true } = {}) {
 </div>`;
 }
 
+/* Pour aller plus loin : articles et livres */
+function plusLoin(j) {
+  const items = j.pour_aller_plus_loin || [];
+  if (!items.length) return "";
+  const li = items.map((x) => {
+    if (x.type === "article") {
+      return `<li class="pl-item"><span class="pl-type">Article${x.langue && x.langue !== "fr" ? " · en anglais" : ""}</span><a class="pl-titre" href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.titre)}</a><span class="pl-meta">${esc(x.source)}</span><span class="pl-pourquoi">${esc(x.pourquoi)}</span></li>`;
+    }
+    const meta = [x.auteur, x.editeur, x.annee].filter(Boolean).join(" · ");
+    return `<li class="pl-item"><span class="pl-type">Livre</span><span class="pl-titre">${esc(x.titre)}</span><span class="pl-meta">${esc(meta)}</span><span class="pl-pourquoi">${esc(x.pourquoi)}</span></li>`;
+  }).join("");
+  return `<section class="wrap section-courte" aria-labelledby="plus-loin-titre">
+  <h2 id="plus-loin-titre" class="titre-moyen">Pour aller plus loin</h2>
+  <p class="pl-intro">Des analyses de médias indépendants et des livres pour comprendre ce que « ${esc(j.mot)} » dit de notre époque.</p>
+  <ul class="pl-liste">${li}</ul>
+</section>`;
+}
+
 /* Questions-réponses d'une fiche (affichées et en données structurées) */
 function questions(j) {
   const m = j.mot;
@@ -339,6 +361,7 @@ ${generations(j)}
   <h2 id="faq-titre" class="titre-moyen">« ${esc(j.mot)} » en 4 questions</h2>
   ${qs.map((x) => `<details open><summary><h3>${esc(x.q)}</h3></summary><p>${esc(x.r)}</p></details>`).join("")}
 </section>
+${plusLoin(j)}
 ${sources.length ? `<section class="wrap sources" aria-label="Sources"><p><strong>Sources :</strong> ${sources.map((u) => `<a href="${esc(u)}" rel="noopener nofollow" target="_blank">${esc(hote(u))}</a>`).join(" · ")}</p></section>` : ""}
 ${proches(j, p)}
 <nav class="wrap prec-suiv" aria-label="Mot précédent et suivant">

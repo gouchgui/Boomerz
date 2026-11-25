@@ -77,6 +77,24 @@
     ],
     "explication": "Un « ratio », c'est quand une réponse récolte plus de likes que le message d'origine. Preuve publique que la foule n'est pas de ton côté. On l'écrit aussi en commentaire pour défier l'auteur : « ratio »."
   },
+  "pour_aller_plus_loin": [
+    {
+      "type": "article",
+      "titre": "Que signifie l'expression « être cooked » qu'on voit partout sur les réseaux sociaux ?",
+      "source": "Presse-citron",
+      "url": "https://www.presse-citron.net/que-signifie-lexpression-etre-cooked-quon-voit-partout-sur-les-reseaux-sociaux/",
+      "langue": "fr",
+      "pourquoi": "D'où vient le « on est cuits » version Gen Z."
+    },
+    {
+      "type": "livre",
+      "titre": "Honni soit qui mal y pense. L'incroyable histoire d'amour entre le français et l'anglais",
+      "auteur": "Henriette Walter",
+      "editeur": "Robert Laffont",
+      "annee": "2001",
+      "pourquoi": "Mille ans d'emprunts entre les deux langues, racontés par une grande linguiste."
+    }
+  ],
   "sources": [
     "https://www.merriam-webster.com/slang/cooked",
     "https://www.presse-citron.net/que-signifie-lexpression-etre-cooked-quon-voit-partout-sur-les-reseaux-sociaux/",

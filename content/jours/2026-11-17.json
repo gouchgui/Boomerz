@@ -76,6 +76,32 @@
     ],
     "explication": "Cheh (ou tcheh) veut dire « bien fait pour toi ». Gentiment moqueur, il se dit quand quelqu'un récolte ce qu'il a semé."
   },
+  "pour_aller_plus_loin": [
+    {
+      "type": "article",
+      "titre": "« Brainrot » : blague à part, de vraies questions sur ces vidéos IA",
+      "source": "Le Temps",
+      "url": "https://www.letemps.ch/societe/brainrot-blague-a-part-de-vraies-questions-sur-ces-videos-ia",
+      "langue": "fr",
+      "pourquoi": "Ce que cache la vague de vidéos absurdes, au-delà du rire."
+    },
+    {
+      "type": "livre",
+      "titre": "La Fabrique du crétin digital. Les dangers des écrans pour nos enfants",
+      "auteur": "Michel Desmurget",
+      "editeur": "Seuil",
+      "annee": "2019",
+      "pourquoi": "Un neuroscientifique alerte sur les effets des écrans chez les enfants. Un livre qui a fait débat."
+    },
+    {
+      "type": "livre",
+      "titre": "La Civilisation du poisson rouge. Petit traité sur le marché de l'attention",
+      "auteur": "Bruno Patino",
+      "editeur": "Grasset",
+      "annee": "2019",
+      "pourquoi": "Comment les plateformes captent notre attention, par un ancien patron de presse."
+    }
+  ],
   "sources": [
     "https://www.pourquoidocteur.fr/Articles/Question-d-actu/49977-Brain-rot-terme-elu-mot-l-annee-2024-retourne-cerveau",
     "https://www.nssmag.com/fr/lifestyle/39042/brain-rot-signification-gen-z",

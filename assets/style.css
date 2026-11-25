@@ -243,3 +243,11 @@ a.mini{text-decoration:none}
 .pied-liens a{color:var(--ink2)}
 .carte-mot{margin:14px 0 0;font-size:26px;font-weight:800;letter-spacing:-.03em}
 .hero h1.h1-long{font-size:clamp(38px,5.5vw,64px);letter-spacing:-.035em;line-height:1.05;max-width:900px;margin:0 auto}
+.pl-intro{margin:-12px 0 20px;color:var(--muted);max-width:720px}
+.pl-liste{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:14px}
+.pl-item{background:var(--soft);border-radius:20px;padding:20px 22px;display:flex;flex-direction:column;gap:5px}
+.pl-type{font-size:11px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--purple)}
+.pl-titre{font-size:18px;font-weight:700;letter-spacing:-.01em;line-height:1.3;color:var(--ink)}
+a.pl-titre{color:var(--link)}
+.pl-meta{font-size:14px;color:var(--muted)}
+.pl-pourquoi{font-size:15px;color:var(--ink2);margin-top:4px}

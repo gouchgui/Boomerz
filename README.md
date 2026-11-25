@@ -71,6 +71,10 @@ Le mot affiché est la dernière fiche dont `statut` vaut `publie` et dont la da
     "indices": ["5 indices, du plus difficile au plus facile"],
     "explication": "Affichée une fois la partie finie."
   },
+  "pour_aller_plus_loin": [           // 2 à 4 références vérifiées, affichées sur la fiche
+    { "type": "article", "titre": "Titre exact", "source": "Slate", "url": "https://...", "langue": "fr", "pourquoi": "Ce que ça apporte." },
+    { "type": "livre", "titre": "Titre exact", "auteur": "Eva Illouz", "editeur": "Seuil", "annee": "2020", "pourquoi": "Ce que ça apporte." }
+  ],
   "sources": ["https://..."]
 }
 ```

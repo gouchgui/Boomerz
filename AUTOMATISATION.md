@@ -22,6 +22,12 @@ Tu prépares la fiche du mot de DEMAIN pour le site Boomerz (dico de la Gen Z po
    - `aussi_ecrit` : 2 à 4 graphies ou variantes que les gens tapent (sans accent, avec tiret, abréviation, expression complète, verbe dérivé). Exemple pour « Délulu » : `["delulu", "délulu", "delulu is the solulu"]` ;
    - `origine` : dates, lieux et noms précis (plateforme, artiste, dictionnaire qui l'a retenu), c'est ce qui rend la fiche crédible ;
    - `slug` : le mot en minuscules sans accent ni article, tirets entre les mots (`glow-up`, `red-flag`).
+   - `pour_aller_plus_loin` : 2 à 4 références en lien direct avec le mot du jour, pour comprendre ce qu'il dit de l'époque :
+     - des articles d'analyse de médias indépendants, de préférence en français : The Conversation, Slate, L'ADN, Usbek & Rica, Socialter, Le Temps, La Vie des idées, Presse-citron, Arrêt sur images… Pas de simple fiche définition ni de site commercial ;
+     - des livres qui existent vraiment (essais, sociologie, linguistique, classiques littéraires), avec auteur, éditeur et année exacts ;
+     - vérifie chaque article : ouvre la page et recopie son titre exact. Ne fabrique jamais un titre, une URL ou une référence de livre. Si tu n'es pas sûr, n'inclus pas la référence ;
+     - `pourquoi` : une phrase qui dit ce que la référence apporte ;
+     - indique `"langue": "en"` pour un article en anglais.
 5. Rédige la fiche en suivant exactement le format du README :
    - ton drôle et bienveillant, phrases courtes, tutoiement ;
    - `generations` : 6 entrées, une époque ancienne ou littéraire (citation d'auteur ou d'œuvre seulement si tu en es sûr), puis 1960 ou 1970, 1980, 1990, 2000 et 2020. Le champ `incarne` cite une figure, un film, un objet ou un phénomène de l'époque, sans photo ;
@@ -35,6 +41,7 @@ Tu prépares la fiche du mot de DEMAIN pour le site Boomerz (dico de la Gen Z po
    - les 6 générations (époque, expression, incarné par) et la généalogie ;
    - le mème d'origine ;
    - le Trendle : la réponse et les 5 indices ;
+   - la rubrique « Pour aller plus loin » (titre, média ou auteur, lien) ;
    - les sources ;
    - pour finir : « Sans réponse de ta part, cette fiche sera en ligne cette nuit à 1 h. Pour la modifier ou la bloquer, écris dans la conversation Boomerz. »
 

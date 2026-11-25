@@ -75,5 +75,23 @@
     ],
     "explication": "« Sus », c'est « suspect » coupé court. Le mot a explosé en 2020 avec le jeu Among Us, où l'on vote pour éjecter le joueur le plus louche."
   },
+  "pour_aller_plus_loin": [
+    {
+      "type": "article",
+      "titre": "Rizz: I study the history of charisma – here's why the word of the year is misunderstood",
+      "source": "The Conversation",
+      "url": "https://theconversation.com/rizz-i-study-the-history-of-charisma-heres-why-the-word-of-the-year-is-misunderstood-219673",
+      "langue": "en",
+      "pourquoi": "Un historien du charisme explique pourquoi « rizz » parle en fait de charme."
+    },
+    {
+      "type": "livre",
+      "titre": "Pourquoi l'amour fait mal. L'expérience amoureuse dans la modernité",
+      "auteur": "Eva Illouz",
+      "editeur": "Seuil",
+      "annee": "2012",
+      "pourquoi": "Ce que le marché de la séduction fait à nos sentiments."
+    }
+  ],
   "sources": []
 }

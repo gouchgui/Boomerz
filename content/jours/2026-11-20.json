@@ -76,6 +76,32 @@
     ],
     "explication": "« Askip », c'est « à ce qu'il paraît » prononcé à toute vitesse, puis écrit comme ça se dit. Parfait pour les potins : askip, le prof de maths part à la retraite."
   },
+  "pour_aller_plus_loin": [
+    {
+      "type": "article",
+      "titre": "Polyester, nouvelle insulte préférée de la Gen Z et pourquoi c'est positif",
+      "source": "Euronews",
+      "url": "https://fr.euronews.com/culture/2026/08/31/polyester-nouvelle-insulte-preferee-de-la-gen-z-et-pourquoi-cest-positif",
+      "langue": "fr",
+      "pourquoi": "Ce que le mot révèle de la quête d'authenticité de la Gen Z."
+    },
+    {
+      "type": "article",
+      "titre": "Gen Z is using “polyester” as an insult. It's actually a throwback",
+      "source": "Grist",
+      "url": "https://grist.org/culture/gen-z-is-using-polyester-as-an-insult-its-actually-a-throwback/",
+      "langue": "en",
+      "pourquoi": "Le mot servait déjà à dire « toc » dans les années 1970."
+    },
+    {
+      "type": "livre",
+      "titre": "La Société du spectacle",
+      "auteur": "Guy Debord",
+      "editeur": "Buchet-Chastel",
+      "annee": "1967",
+      "pourquoi": "Quand tout devient représentation : la critique du « polyester » avant la lettre."
+    }
+  ],
   "sources": [
     "https://fr.euronews.com/2026/08/31/polyester-nouvelle-insulte-preferee-de-la-gen-z-et-pourquoi-cest-positif",
     "https://grist.org/culture/gen-z-is-using-polyester-as-an-insult-its-actually-a-throwback/",

@@ -75,6 +75,40 @@
     ],
     "explication": "Tarpin veut dire « beaucoup », « très ». Cette expression marseillaise a conquis les ados de toute la France : « il fait tarpin chaud ». Elle entre dans le Petit Larousse 2027."
   },
+  "pour_aller_plus_loin": [
+    {
+      "type": "article",
+      "titre": "D'où vient le mot « crush » ?",
+      "source": "Slate",
+      "url": "https://www.slate.fr/story/267068/origine-sens-definition-mot-crush-relations-amoureuses-sentiments-jeunes-rencontre-ados-linguistique",
+      "langue": "fr",
+      "pourquoi": "Par la sociologue Christine Détrez, qui a enquêté auprès des ados."
+    },
+    {
+      "type": "livre",
+      "titre": "Crush. Fragments du nouveau discours amoureux",
+      "auteur": "Christine Détrez",
+      "editeur": "Flammarion",
+      "annee": "2024",
+      "pourquoi": "L'enquête d'une sociologue auprès des 13-25 ans : le crush n'est pas qu'un béguin, c'est toute une pratique."
+    },
+    {
+      "type": "article",
+      "titre": "L'amour est un discours rebelle",
+      "source": "La Vie des idées",
+      "url": "https://laviedesidees.fr/Christine-Detrez-Crush",
+      "langue": "fr",
+      "pourquoi": "La recension du livre de Christine Détrez par le sociologue Christophe Giraud."
+    },
+    {
+      "type": "livre",
+      "titre": "Fragments d'un discours amoureux",
+      "auteur": "Roland Barthes",
+      "editeur": "Seuil",
+      "annee": "1977",
+      "pourquoi": "Le classique sur l'amour qu'on rumine en secret. Le crush, version 1977."
+    }
+  ],
   "sources": [
     "https://www.journaldugeek.com/2026/05/05/crush-vocal-dinguerie-soumission-chimique-les-nouveaux-mots-du-dico-sont-la/",
     "https://lebonbon.fr/paris/news/dinguerie-ma-gatee-tarpin-nouveaux-mots-entrent-dictionnaire/",

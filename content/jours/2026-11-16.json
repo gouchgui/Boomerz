@@ -77,6 +77,32 @@
     ],
     "explication": "Slay veut dire « tuer » en anglais. Chez la Gen Z, ça veut dire réussir quelque chose avec brio : « elle a slay », elle a tout déchiré."
   },
+  "pour_aller_plus_loin": [
+    {
+      "type": "article",
+      "titre": "« Six-Seven » : c'est quoi cette expression absurde et virale qui fait fureur chez les jeunes ?",
+      "source": "Journal du Geek",
+      "url": "https://www.journaldugeek.com/2026/07/06/six-seven-cest-quoi-cette-expression-absurde-et-virale-qui-fait-fureur-chez-les-jeunes/",
+      "langue": "fr",
+      "pourquoi": "L'origine du cri, du rap à la cour de récré."
+    },
+    {
+      "type": "article",
+      "titre": "What Does ‘6-7’ Mean? We Don't Know Either, So We Asked a Linguistics Professor",
+      "source": "Georgetown University",
+      "url": "https://www.georgetown.edu/news/six-seven-meme-linguistics/",
+      "langue": "en",
+      "pourquoi": "Un professeur de linguistique explique comment un mot sans sens peut faire un tabac."
+    },
+    {
+      "type": "livre",
+      "titre": "The Lore and Language of Schoolchildren",
+      "auteur": "Iona et Peter Opie",
+      "editeur": "Oxford University Press",
+      "annee": "1959",
+      "pourquoi": "L'étude fondatrice sur les mots et rituels absurdes des cours de récré. « Six seven » a des ancêtres."
+    }
+  ],
   "sources": [
     "https://npr.org/2025/10/31/nx-s1-5593052/67-dictionary-word-of-the-year-2025",
     "https://www.journaldugeek.com/2026/07/06/six-seven-cest-quoi-cette-expression-absurde-et-virale-qui-fait-fureur-chez-les-jeunes/",
