@@ -4,7 +4,7 @@
   "name": "boomerz",
   "main": "worker.js",
   "compatibility_date": "2026-11-01",
-  "vars": { "REDIRIGER_VERS_DOMAINE": "non" },
+  "vars": { "REDIRIGER_VERS_DOMAINE": "oui" },
   "assets": {
     "directory": "./dist",
     "binding": "ASSETS",
