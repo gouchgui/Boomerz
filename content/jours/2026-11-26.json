@@ -1,0 +1,50 @@
+{
+  "date": "2026-11-26",
+  "statut": "brouillon",
+  "slug": "lowkey",
+  "mot": "Lowkey",
+  "prononciation": "lo-ki",
+  "nature": "adverbe / adjectif",
+  "definition": "Un petit mot qu'on glisse dans une phrase pour dire « un peu », « mine de rien » ou « en secret ». Il sert à avouer un truc sans trop l'assumer. Souvent écrit « lwk » dans les messages. Son contraire, « highkey », veut dire qu'on assume à fond.",
+  "definition_courte": "Mine de rien, un peu, en secret",
+  "origine": "En anglais, « low key » veut d'abord dire « ton bas » : une voix qui chuchote, une photo aux tons sombres. Au XXe siècle, le mot prend le sens de « discret, sans chichis ». Vers 2009, des internautes américains s'en servent comme adverbe sur Twitter : « low key », c'est « un peu, en douce ». Le rap américain le popularise au milieu des années 2010, puis il traverse l'Atlantique. Aujourd'hui, les ados français le placent partout, souvent abrégé en « lwk ».",
+  "exemple": "J'avoue, lowkey, j'ai kiffé le film de Noël que mamie a mis.",
+  "traduction_boomer": "Entre nous, mine de rien, je l'avoue à demi-mot.",
+  "gene_parent": 3,
+  "etat": "en-forme",
+  "rarete": "rare",
+  "apparu": "2009",
+  "meme": {
+    "description": "Pas un mème unique, mais une habitude : des tweets qui commencent par « low key » pour avouer un petit plaisir coupable, du genre « low key, j'aimerais être encore en vacances ». Repris par les rappeurs américains, le format devient un réflexe, puis une abréviation, « lwk », qu'on retrouve aujourd'hui sous les vidéos TikTok françaises.",
+    "plateforme": "Twitter",
+    "annee": "2009",
+    "embed_url": null
+  },
+  "generations": [
+    { "epoque": "XVIIe siècle", "dit": "En tapinois", "incarne": "Tartuffe, le faux dévot de Molière, qui avance masqué" },
+    { "epoque": "1960", "dit": "En loucedé", "incarne": "L'argot des Tontons flingueurs et les dialogues de Michel Audiard" },
+    { "epoque": "1980", "dit": "Mine de rien", "incarne": "L'inspecteur Columbo, qui fait semblant de partir avec « juste une dernière question »" },
+    { "epoque": "1990", "dit": "En scred", "incarne": "Le Tamagotchi caché dans la trousse pendant le cours de maths" },
+    { "epoque": "2000", "dit": "En mode discret", "incarne": "Le Nokia 3310 passé sur vibreur pendant le repas de famille" },
+    { "epoque": "2020", "dit": "Lowkey", "incarne": "Les « lwk » glissés dans les tweets et les commentaires TikTok" }
+  ],
+  "genealogie": ["En tapinois", "En loucedé", "Mine de rien", "En scred", "En mode discret", "Lowkey"],
+  "trendle": {
+    "reponse": "BELEK",
+    "libelle": "Belek",
+    "indices": [
+      "Le mot vient de l'arabe maghrébin.",
+      "On le lance à quelqu'un qui risque de faire une bêtise.",
+      "C'est un avertissement, souvent crié dans la cour de récré.",
+      "Il fait 5 lettres et commence par un B.",
+      "Un boomer dirait : « Attention, fais gaffe ! »"
+    ],
+    "explication": "« Belek », c'est « fais attention ». « Belek, le prof arrive ! » Le mot vient de l'arabe maghrébin « balak », qui veut dire « attention »."
+  },
+  "sources": [
+    "https://www.presse-citron.net/que-signifie-labreviation-lwk-quon-voit-souvent-sur-les-reseaux-sociaux/",
+    "https://www.buzzwebzine.fr/lexique/low-key/",
+    "https://www.merriam-webster.com/wordplay/words-were-watching-low-key",
+    "https://www.dictionary.com/e/slang/low-key/"
+  ]
+}
