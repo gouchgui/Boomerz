@@ -1,0 +1,113 @@
+{
+  "date": "2026-11-27",
+  "statut": "brouillon",
+  "slug": "rage-bait",
+  "mot": "Rage bait",
+  "aussi_ecrit": [
+    "ragebait",
+    "rage-bait",
+    "rage baiting",
+    "rage baiter"
+  ],
+  "prononciation": "réje bète",
+  "nature": "nom / verbe",
+  "definition": "Un contenu posté exprès pour énerver les gens, afin qu'ils commentent, partagent et fassent grimper les vues. Plus tu t'indignes, plus tu nourris l'algorithme, et plus l'auteur gagne en visibilité, parfois en argent. Les jeunes s'en servent aussi comme verdict : « Laisse tomber, c'est du rage bait. »",
+  "definition_courte": "Contenu fait exprès pour te mettre en rogne",
+  "origine": "C'est de l'anglais : « rage » (la colère) et « bait » (l'appât), sur le modèle de « clickbait », l'appât à clics. Le mot circule sur Internet dans les années 2010, quand les plateformes se mettent à récompenser les commentaires, y compris les commentaires furieux. Le 1er décembre 2025, Oxford University Press l'élit mot de l'année, après un vote de 30 000 personnes, devant « aura farming » et « biohack ».",
+  "exemple": "Il met du ketchup dans ses pâtes carbo en vidéo ? Ne commente surtout pas, c'est du rage bait.",
+  "traduction_boomer": "Il fait exprès de te chercher pour qu'on parle de lui.",
+  "gene_parent": 2,
+  "etat": "en-forme",
+  "rarete": "epique",
+  "apparu": "2010",
+  "meme": {
+    "description": "Pas un mème unique, mais un genre entier : des vidéos TikTok où le créateur commet volontairement une horreur (une recette massacrée, une opinion absurde, une faute énorme) pour déclencher des milliers de commentaires indignés. La parade des internautes : répondre simplement « rage bait » et passer son chemin.",
+    "plateforme": "TikTok",
+    "annee": "2025",
+    "embed_url": null
+  },
+  "generations": [
+    {
+      "epoque": "XVIIIe siècle",
+      "dit": "Lancer un brûlot",
+      "incarne": "Les pamphlets incendiaires vendus sous le manteau"
+    },
+    {
+      "epoque": "1960",
+      "dit": "Être bête et méchant",
+      "incarne": "Le journal Hara-Kiri, qui se vantait de l'être"
+    },
+    {
+      "epoque": "1980",
+      "dit": "Faire de la provoc'",
+      "incarne": "Gainsbourg qui brûle un billet de 500 francs en direct à la télé, en 1984"
+    },
+    {
+      "epoque": "1990",
+      "dit": "Jeter de l'huile sur le feu",
+      "incarne": "Les débats télé où les invités s'écharpent en plateau"
+    },
+    {
+      "epoque": "2000",
+      "dit": "Troller",
+      "incarne": "Le petit malin des forums qui poste juste pour lancer la bagarre"
+    },
+    {
+      "epoque": "2020",
+      "dit": "Rage bait",
+      "incarne": "Les vidéos TikTok faites pour qu'on s'énerve dans les commentaires"
+    }
+  ],
+  "genealogie": [
+    "Brûlot",
+    "Bête et méchant",
+    "Provoc'",
+    "Huile sur le feu",
+    "Troll",
+    "Rage bait"
+  ],
+  "trendle": {
+    "reponse": "OKLM",
+    "libelle": "OKLM",
+    "indices": [
+      "Ça décrit un état d'esprit, pas une action.",
+      "On le met souvent en légende d'une photo de canapé ou de vacances.",
+      "Un rappeur français l'a popularisé au milieu des années 2010.",
+      "Il fait 4 lettres et commence par un O.",
+      "Un boomer dirait : « Tranquille, pépère. »"
+    ],
+    "explication": "« OKLM », c'est « au calme » écrit en abrégé : tranquille, détendu, sans pression. Le rappeur Booba l'a rendu célèbre au milieu des années 2010."
+  },
+  "pour_aller_plus_loin": [
+    {
+      "type": "article",
+      "titre": "Clic, clash, cash : « rage bait » devient le mot de l'année 2025",
+      "source": "L'ADN",
+      "url": "https://www.ladn.eu/media-mutants/rage-bait-le-mot-de-lannee-2025-qui-resume-parfaitement-internet/",
+      "langue": "fr",
+      "pourquoi": "Des trolls des forums à la communication politique : comment la colère est devenue un business."
+    },
+    {
+      "type": "article",
+      "titre": "C'est quoi le rage-baiting? Le phénomène qui a envahi TikTok et Instagram",
+      "source": "NSS Magazine",
+      "url": "https://www.nss-france.com/fr/lifestyle/39329/rage-baiting-strategie-reseaux-sociaux-indignation",
+      "langue": "fr",
+      "pourquoi": "Pourquoi les algorithmes récompensent même les commentaires haineux."
+    },
+    {
+      "type": "livre",
+      "titre": "La Civilisation du poisson rouge. Petit traité sur le marché de l'attention",
+      "auteur": "Bruno Patino",
+      "editeur": "Grasset",
+      "annee": "2019",
+      "pourquoi": "Comment les plateformes se battent pour chaque seconde de notre attention."
+    }
+  ],
+  "sources": [
+    "https://www.merriam-webster.com/slang/rage-bait",
+    "https://fr.euronews.com/2025/12/01/rage-bait-couronne-mot-de-lannee-2025-par-oxford",
+    "https://www.parismatch.be/actualites/societe/2025/12/03/lexpression-de-lannee-a-ete-designee-et-voici-pourquoi-ce-nest-pas-vraiment-une-bonne-nouvelle-ZNOAMKNM7VFUZNWIMZ5RKQEUGQ/",
+    "https://www.ladn.eu/media-mutants/rage-bait-le-mot-de-lannee-2025-qui-resume-parfaitement-internet/"
+  ]
+}
