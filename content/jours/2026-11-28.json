@@ -1,0 +1,113 @@
+{
+  "date": "2026-11-28",
+  "statut": "brouillon",
+  "slug": "sigma",
+  "mot": "Sigma",
+  "aussi_ecrit": [
+    "sigma male",
+    "what the sigma",
+    "sigma boy",
+    "sigma face"
+  ],
+  "prononciation": "sig-ma",
+  "nature": "adjectif / nom",
+  "definition": "Au départ, un « sigma », c'est le « loup solitaire » : un homme qui réussit seul, sans suivre le groupe ni chercher l'approbation des autres. Chez les ados, le mot veut surtout dire « trop fort », ou sert de blague : on dit « trop sigma » pour un geste stylé… ou complètement absurde. Et « What the sigma ? », c'est « C'est quoi ce délire ? ».",
+  "definition_courte": "Loup solitaire stylé, ou juste « trop fort »",
+  "origine": "Le « sigma male » apparaît en 2010 sur un blog d'un militant d'extrême droite américain, dans les milieux masculinistes qui classent les hommes en « alphas » et « bêtas ». Au début des années 2020, l'idée devient un mème : la « sigma face » de Patrick Bateman, le héros d'American Psycho, à partir de 2022, puis Bob l'éponge qui lance « Erm, what the sigma ? » en 2024. Aujourd'hui, la plupart des ados l'emploient au second degré.",
+  "exemple": "Il a rendu sa copie en avance et il est sorti sans un mot : trop sigma.",
+  "traduction_boomer": "C'est un vrai loup solitaire… ou alors c'est juste génial.",
+  "gene_parent": 4,
+  "etat": "en-declin",
+  "rarete": "rare",
+  "apparu": "2010",
+  "meme": {
+    "description": "La « sigma face » : la grimace de Patrick Bateman (Christian Bale) dans American Psycho, un souffle puis un sourire crispé, reprise en boucle sur TikTok à partir de 2022. Les montages « sigma » mettent en scène des héros solitaires et impassibles, souvent pour s'en moquer.",
+    "plateforme": "TikTok",
+    "annee": "2022",
+    "embed_url": null
+  },
+  "generations": [
+    {
+      "epoque": "XVIIe siècle",
+      "dit": "Être un misanthrope",
+      "incarne": "Alceste, dans Le Misanthrope de Molière (1666)"
+    },
+    {
+      "epoque": "1960",
+      "dit": "Un franc-tireur",
+      "incarne": "Clint Eastwood, l'homme sans nom des westerns de Sergio Leone"
+    },
+    {
+      "epoque": "1980",
+      "dit": "Un loup solitaire",
+      "incarne": "Rambo, qui s'en sort toujours seul"
+    },
+    {
+      "epoque": "1990",
+      "dit": "Il trace sa route",
+      "incarne": "Léon, le tueur solitaire du film de Luc Besson (1994)"
+    },
+    {
+      "epoque": "2000",
+      "dit": "Il gère",
+      "incarne": "Neo, le héros de Matrix"
+    },
+    {
+      "epoque": "2020",
+      "dit": "Sigma",
+      "incarne": "Patrick Bateman et sa « sigma face » sur TikTok"
+    }
+  ],
+  "genealogie": [
+    "Misanthrope",
+    "Franc-tireur",
+    "Loup solitaire",
+    "Trace sa route",
+    "Il gère",
+    "Sigma"
+  ],
+  "trendle": {
+    "reponse": "ZINZIN",
+    "libelle": "Zinzin",
+    "indices": [
+      "C'est un adjectif.",
+      "Il qualifie une personne ou une situation pas très normale.",
+      "Le mot existait déjà du temps des grands-parents et il est revenu à la mode.",
+      "6 lettres, deux syllabes presque identiques.",
+      "Un boomer dirait : « Il est complètement maboul. »"
+    ],
+    "explication": "« Zinzin », c'est « fou, bizarre, un peu dérangé ». Un vieux mot du français familier que les ados ont remis au goût du jour."
+  },
+  "pour_aller_plus_loin": [
+    {
+      "type": "article",
+      "titre": "« La pensée masculiniste se distille dans des discours très ordinaires »",
+      "source": "Politis",
+      "url": "https://www.politis.fr/articles/2024/05/vss-pauline-ferrari-la-pensee-masculiniste-se-distille-dans-des-discours-tres-ordinaires",
+      "langue": "fr",
+      "pourquoi": "D'où viennent les idées « alpha » et « sigma », et comment elles arrivent jusqu'aux collégiens."
+    },
+    {
+      "type": "article",
+      "titre": "The Rise of the 'Sigma Male', a New Kind of Toxic Masculinity",
+      "source": "Vice",
+      "url": "https://www.vice.com/en/article/sigma-male-toxic-masculinity",
+      "langue": "en",
+      "pourquoi": "L'enquête de Vice France sur le culte de Patrick Bateman et des « sigma males »."
+    },
+    {
+      "type": "livre",
+      "titre": "Formés à la haine des femmes. Comment les masculinistes infiltrent les réseaux sociaux",
+      "auteur": "Pauline Ferrari",
+      "editeur": "JC Lattès",
+      "annee": "2023",
+      "pourquoi": "L'enquête de référence sur les influenceurs masculinistes et leur public de plus en plus jeune."
+    }
+  ],
+  "sources": [
+    "https://www.merriam-webster.com/slang/sigma",
+    "https://www.dazeddigital.com/science-tech/article/55208/1/rise-and-grind-how-sigma-male-memes-are-upturning-the-man-o-sphere",
+    "https://amp.knowyourmeme.com/editorials/guides/what-is-the-sigma-face-and-who-is-the-sigma-girl-the-meme-explained",
+    "https://www.nbcnews.com/news/rcna152068"
+  ]
+}
